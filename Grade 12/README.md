@@ -1,5 +1,5 @@
 # 🎓 Grade12 Math Learning resources
-![](https://komarev.com/ghpvc/?username=High-School-Maths/Grade 12&color=brightgreen&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=High-School-Maths/Grade%12&color=brightgreen&label=VISITORS)
 
 ## Content summary
 
