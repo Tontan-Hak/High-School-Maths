@@ -1,4 +1,3 @@
-# High-School-Maths
 # 🚀 Self-taught education
 ![](https://komarev.com/ghpvc/?username=Self-Study-Maths&color=brightgreen&label=VISITORS)
 
@@ -10,10 +9,6 @@
 - [Learning How to learn](#Learning-How-to-learn)
 	- [Recommended Course](#Recommended-Course)
 	- [Teaching and learning](#Teaching-and-learning)
-- [Bachelor of Science in Mathematics (MIT)](#Bachelor-of-Science-in-Mathematics-MIT)
-- [Department of mathematics (RUPP)](#Department-of-mathematics-RUPP)
-- [Path to a free self-taught education (OSSU)](#Path-to-a-free-self-taught-education-OSSU)
-- [The Open-Source Mathematics Degree](#The-Open-Source-Mathematics-Degree)
 - [OpenStax](#OpenStax)
 	- [Algebra and Trigonometry](#Algebra-and-Trigonometry)
 	- [Calculus](#Calculus)
