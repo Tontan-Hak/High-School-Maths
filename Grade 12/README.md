@@ -1,5 +1,5 @@
 # 🎓 Grade12 Math Learning resources
-![](https://komarev.com/ghpvc/?username=High-School-Maths/tree/main/Grade%2012&color=brightgreen&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=https://github.com/Tontan-Hak/High-School-Maths/tree/main/Grade%2012&color=brightgreen&label=VISITORS)
 
 ## Content summary
 
