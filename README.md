@@ -1,4 +1,4 @@
-# 🚀 Self-taught education
+# 🚀 Self-Taught Education
 ![](https://komarev.com/ghpvc/?username=High-School-Maths&color=brightgreen&label=VISITORS)
 
 **Quote**
@@ -281,7 +281,7 @@ Just a few sites that don't fit into any of the other areas above
   <br/>
 
 <!--START_SECTION:activity-->
-	To provide the self-taught educatioin
+	To provide the self-taught education
 <!--END_SECTION:activity-->
 </details>
 
@@ -291,11 +291,11 @@ Just a few sites that don't fit into any of the other areas above
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-<a href="https://github.com/Tontan-Hak/Self-Study-Maths/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Self-Study-Maths" alt="Stars Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Self-Study-Maths/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Self-Study-Maths" alt="Forks Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Self-Study-Maths/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Self-Study-Maths" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Grade12-Math/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Grade12-Math" alt="Issues Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Self-Study-Maths/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Self-Study-Maths?color=2b9348"></a>
-<a href="https://github.com/Tontan-Hak/Self-Study-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Study-Maths?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/High-School-Maths" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/High-School-Maths" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/High-School-Maths" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Mathsissues"><img src="https://img.shields.io/github/issues/Tontan-Hak/High-School-Maths" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/High-School-Maths?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/High-School-Maths?color=2b9348" alt="License Badge"/></a>
 
 -----
