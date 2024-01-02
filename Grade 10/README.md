@@ -73,7 +73,7 @@
  
 ✅ [ What is Vector?](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) && [What is a vector? - David Huynh](https://www.youtube.com/watch?v=ml4NSzCQobk)<br>
 ✅ [ Vectors - The Mechanical Universe](https://www.youtube.com/watch?v=MWrOozSSdW8) <br>
-✅ [ The Vector Algebra War](https://www.youtube.com/watch?v=_AaOFCl2ihc) 
+✅ [ The Vector Algebra War](https://www.youtube.com/watch?v=_AaOFCl2ihc) <br>
 **Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ស្វ័យគុណ` `សមាមាត្រ` `ពន្លាតកន្សោម` `កន្សោមពីជគណិត`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
