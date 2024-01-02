@@ -77,9 +77,11 @@
 **Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ស្វ័យគុណ` `សមាមាត្រ` `ពន្លាតកន្សោម` `កន្សោមពីជគណិត`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [Review lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
+	* [🎬 សំណើ និង ឈ្នាប់តក្កវិទ្យា](https://www.youtube.com/watch?v=InXRSbYh8hg&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=1)
+ 	* [🎬 សំណើ និង ឈ្នាប់តក្កវិទ្យា (ត)](https://www.youtube.com/watch?v=RP8yQDT6aB8&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=3)
+    	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32O3oQY8PPhyu5MhCmtc4yC)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [សមីការនិងវិសមីការ](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=share_link)
+	* [Logic 1](https://drive.google.com/file/d/13mol7rV96BkdnB2A7zoR9oEXVXe6k9L8/view?usp=sharing)
 ##
 <div align="right">
 	
