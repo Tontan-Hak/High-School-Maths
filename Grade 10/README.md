@@ -75,12 +75,12 @@
 ✅ [Why Do Computers Use 1s and 0s? Binary and Transistors Explained.](https://www.youtube.com/watch?v=Xpk67YzOn5w) <br>
 ✅ [Understanding Logic Gates](https://www.youtube.com/watch?v=INEtYZqtjTo) <br>
 ## មេរៀនទី១: តក្កវិទ្យា
-**Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
+**Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
 	* [🎬 ១ សំណើ និង ឈ្នាប់តក្កវិទ្យា](https://www.youtube.com/watch?v=InXRSbYh8hg&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=1)
  	* [🎬 ១ សំណើ និង ឈ្នាប់តក្កវិទ្យា (ត)](https://www.youtube.com/watch?v=RP8yQDT6aB8&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=3)
-    	* [🎬 ២ ប្រភេទនៃសម្រាយបញ្ជាក់](https://www.youtube.com/watch?v=qBhb8q5aY8I&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=6)
+	* [🎬 ២ ប្រភេទនៃសម្រាយបញ្ជាក់](https://www.youtube.com/watch?v=qBhb8q5aY8I&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=6)
 	* [🎬 ២ ប្រភេទនៃសម្រាយបញ្ជាក់ តចប់](https://www.youtube.com/watch?v=BpaZH7s8pjU&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=7)
 	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32O3oQY8PPhyu5MhCmtc4yC)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
@@ -95,7 +95,7 @@
 </div>
 
 ## មេរៀនទី២: សំណុំ
-**Topics Covered:** `1.សញ្ញាណនៃសំណុំ` `2.ឈប្រមាណវិធីលើសំណុំ` `3.លក្ខណៈនៃប្រមាណវិធីលើសំណុំ` `4.ធ្វើលំហាត់` <br>
+**Topics Covered:** `1.សញ្ញាណនៃសំណុំ` `2.ឈប្រមាណវិធីលើសំណុំ` `3.លក្ខណៈនៃប្រមាណវិធីលើសំណុំ` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
 	* [🎬 ១ សញ្ញាណនៃសំណុំ](https://www.youtube.com/watch?v=jXnnlLiwz5w&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=9)
