@@ -68,7 +68,21 @@
 </div>
 
 -----
+# ជំពូកទី ០១: តក្តវិទ្យា​​​ សំណុំនិងចំនួន
+**Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ស្វ័យគុណ` `សមាមាត្រ` `ពន្លាតកន្សោម` `កន្សោមពីជគណិត`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+	* [Review lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [សមីការនិងវិសមីការ](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=share_link)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 
+-----
 ## MOEYS Course Book
    * [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
 
