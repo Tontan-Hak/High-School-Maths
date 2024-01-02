@@ -74,6 +74,7 @@
 ✅ [ What is Logic?](https://www.youtube.com/watch?v=S0S6NtTeMZ0) && [Introduction to Philosophy and Logic](https://www.youtube.com/watch?v=R2zElslG_tE&t=305s)<br>
 ✅ [Why Do Computers Use 1s and 0s? Binary and Transistors Explained.](https://www.youtube.com/watch?v=Xpk67YzOn5w) <br>
 ✅ [Understanding Logic Gates](https://www.youtube.com/watch?v=INEtYZqtjTo) <br>
+## មេរៀនទី១: តក្កវិទ្យា
 **Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
 **Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
