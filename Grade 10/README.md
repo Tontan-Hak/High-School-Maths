@@ -71,7 +71,7 @@
 # ជំពូកទី ០១: តក្តវិទ្យា​​​ សំណុំនិងចំនួន
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
-✅ [ What is Vector?](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) && [What is a vector? - David Huynh](https://www.youtube.com/watch?v=ml4NSzCQobk)<br>
+✅ [ What is Logic?](https://www.youtube.com/watch?v=S0S6NtTeMZ0) && [Introduction to Philosophy and Logic](https://www.youtube.com/watch?v=R2zElslG_tE&t=305s)<br>
 ✅ [ Vectors - The Mechanical Universe](https://www.youtube.com/watch?v=MWrOozSSdW8) <br>
 ✅ [ The Vector Algebra War](https://www.youtube.com/watch?v=_AaOFCl2ihc) <br>
 **Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
