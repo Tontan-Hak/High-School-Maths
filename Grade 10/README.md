@@ -91,7 +91,23 @@
 [Go to the top](#Content-summary)
 	
 </div>
-
+## មេរៀនទី១: តក្កវិទ្យា
+**Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
+**Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 សំណើ និង ឈ្នាប់តក្កវិទ្យា](https://www.youtube.com/watch?v=InXRSbYh8hg&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=1)
+ 	* [🎬 សំណើ និង ឈ្នាប់តក្កវិទ្យា (ត)](https://www.youtube.com/watch?v=RP8yQDT6aB8&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=3)
+	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32O3oQY8PPhyu5MhCmtc4yC)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1YtPsSc0qz_GJsWSjdBaHlkMPAXyZhTSF/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល](https://drive.google.com/file/d/13mol7rV96BkdnB2A7zoR9oEXVXe6k9L8/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/13t2AO1FYbbVxrERuXbmJ01SUn7fVPsiZ/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 ## MOEYS Course Book
    * [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
