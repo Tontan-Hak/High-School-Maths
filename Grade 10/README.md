@@ -72,7 +72,7 @@
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
 ✅ [ What is Logic?](https://www.youtube.com/watch?v=S0S6NtTeMZ0) && [Introduction to Philosophy and Logic](https://www.youtube.com/watch?v=R2zElslG_tE&t=305s)<br>
-✅ []() <br>
+✅ [Why Do Computers Use 1s and 0s? Binary and Transistors Explained.](https://www.youtube.com/watch?v=Xpk67YzOn5w) <br>
 ✅ [Understanding Logic Gates](https://www.youtube.com/watch?v=INEtYZqtjTo) <br>
 **Topics Covered:** `1.សំណើ` `2.ឈ្នាប់តក្កវិទ្យា` `3.ប្រភេទសម្រាយបញ្ជាក់` `4.ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ស្វ័យគុណ` `សមាមាត្រ` `ពន្លាតកន្សោម` `កន្សោមពីជគណិត`
