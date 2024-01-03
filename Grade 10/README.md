@@ -160,6 +160,24 @@
 	
 </div>
 
+## មេរៀនទី២: ប្រមាណវិធីចែកពហុធា
+**Topics Covered:** `1.ប្រមាណវិធីចែកពហុធា` `2.តួចែករួមធំ និងពហុគុណរួមតូច` `3.ប្រមាណវិធីលើប្រភាគសនិទាន` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 ១ ប្រមាណវីធីចែកពហុធា](https://www.youtube.com/watch?v=m5oUA8TZOUI&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=27)
+ 	* [🎬 ២ ប្រមាណវីធីចែកពហុធា (តចប់)](https://www.youtube.com/watch?v=pvPkSBoKPoY&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=28)
+	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe30ELHui9nflIqfeyo76HQax)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល]()
+	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
 -----
 ## MOEYS Course Book
    * [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
