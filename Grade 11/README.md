@@ -57,9 +57,9 @@
 **Topics Covered:** `ចំនួន` `សមីការ` `វិសមីការ` `ប្រពន្ធសមីការ` `ពហុធា` `សំណុំ` `សំណើ` `ត្រីកោណមាត្រ` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ស្វ័យគុណ` `សមាមាត្រ` `ពន្លាតកន្សោម` `កន្សោមពីជគណិត`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-	* [Review lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
+	* [🎬 Review lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [សមីការនិងវិសមីការ](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=share_link)
+	* [📚 សមីការនិងវិសមីការ](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=share_link)
 ##
 <div align="right">
 	
@@ -68,11 +68,27 @@
 </div>
 
 -----
-
-## MOEYS Course Book
-   * [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
-
 ## ស្រាវជ្រាវបន្ថែម
+   - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
+   - [x]  [សៀវភៅគ្រូ គណិតវិទ្យាពីថ្នាក់ទី១០ ដល់ទី១២](https://drive.google.com/drive/folders/1aooTkecupaHDw-DOUkIvNpxMJGxaiitp?usp=sharing)
+##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
+- [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
+- [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
+- [GeoGebra](https://www.geogebra.org/u/tontanhak97)
+- [Duraseksa](https://www.duraseksa.com/home)
+- [E-Learning MoEYS](https://elearning.moeys.gov.kh/?redirect=0)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 
+-----
+## Miscellaneous
+​Just a few sites that don't fit into any of the other areas above
+
+* [3 tips on how to study effectively](https://www.youtube.com/watch?v=TjPFZaMe2yw)
+* [Awesome-math](https://github.com/Tontan-Hak/awesome-math)
 ------
