@@ -3,7 +3,7 @@
 
 ## Content summary
 
-* [x] [ជំពូកទី ០\.រំលឹកមេរៀន](#ជំពូកទី-០-រំលឹកមេរៀន)
+* [x] [ជំពូកទី០\.រំលឹកមេរៀន](#ជំពូកទី០-រំលឹកមេរៀន)
     * [តម្រូវការជាមុន](#ជំពូកទី-០-រំលឹកមេរៀន)
 * [x] [ជំពូកទី ០១ \. ប្រូបាប](#ជំពូក-០១-ប្រូបាប)
     * [មេរៀនទី ១\. ចម្លាស់](#ជំពូក-០១-ប្រូបាប)
@@ -63,7 +63,7 @@
 </div>
 
 -----
-# ជំពូក ០១ ប្រូបាប
+# ជំពូក០១ ប្រូបាប
 
 **Topics Covered:** `សំណុំ` `របាប` `ចម្លាស់` `បន្សំ` `លំហសំណាក់និងព្រឹត្តិការណ៍` `ប្រូបាប` `គណនាប្រូបាបដោយប្រើចម្លាស់និងបន្សំ`
 <br>
@@ -74,6 +74,7 @@
     * [🎬 បន្សំ](https://www.youtube.com/watch?v=UoUlMpX_hgc&list=PLHIDhoWPChfVvkhIqL7eUSXxLRtE65B3o&index=3)
     * [🎬 ប្រៀបធៀបចម្លាស់ និងបន្សំ](https://www.youtube.com/watch?v=ujmUgjV4TT8&t=66s)
     * [Probability](https://www.youtube.com/watch?v=lhgoNHnJguc&list=PLlfPK5sIGAzamEiGuAVVqZvB0_ll30a0W&index=8)
+      --
     * [🎬 ប្រូបាប (ភាគ១)](https://www.youtube.com/watch?v=uxjDSketC14&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=26)
     * [🎬 ប្រូបាប (ភាគ២)](https://www.youtube.com/watch?v=4w4Z-eR8I_o&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=25)
     * [🎬 ប្រូបាប (ភាគ៣)](https://www.youtube.com/watch?v=dpAD7bB9jkQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=24)
