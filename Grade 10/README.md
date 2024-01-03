@@ -150,9 +150,9 @@
 	* [🎬 4 ការដាក់ជាផលគុណកត្តា (តចប់)](https://www.youtube.com/watch?v=bz7927skT2o&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=26)
 	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe30ELHui9nflIqfeyo76HQax)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [📚 ដំណោះស្រាយលំហាត់]()
-	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល]()
-	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)]()
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AmpEt-l2uOle-3R35dYXkBj6eEEwmm-t/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក អោ មណីចន្រ្ទា](https://drive.google.com/file/d/12YkBcDg_ud61fVsC-sBNUkr-_Y-4m4qj/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យា(NIE)](https://drive.google.com/file/d/18yaRDzgvM5KRl3qXFWZUsBKWpEcKbD8V/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -168,9 +168,8 @@
  	* [🎬 ២ ប្រមាណវីធីចែកពហុធា (តចប់)](https://www.youtube.com/watch?v=pvPkSBoKPoY&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=28)
 	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe30ELHui9nflIqfeyo76HQax)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [📚 ដំណោះស្រាយលំហាត់]()
-	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល]()
-	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)]()
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AmpEt-l2uOle-3R35dYXkBj6eEEwmm-t/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក លឹម ផល្គុន​ និង អុឹង សំណាង](https://drive.google.com/file/d/1V6ot8QbALuKEgjjqJWX-JZ9wm-tknCV8/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -184,6 +183,7 @@
 
 ## ស្រាវជ្រាវបន្ថែម
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
+   - [x]  [សៀវភៅគ្រូ គណិតវិទ្យាពីថ្នាក់ទី១០ ដល់ទី១២](https://drive.google.com/drive/folders/1aooTkecupaHDw-DOUkIvNpxMJGxaiitp?usp=sharing)
 ##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
 - [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
@@ -199,5 +199,7 @@
 
 -----
 ## Miscellaneous
-Just a few sites that don't fit into any of the other areas above
+​Just a few sites that don't fit into any of the other areas above
+
+* [3 tips on how to study effectively](https://www.youtube.com/watch?v=TjPFZaMe2yw)
 ------
