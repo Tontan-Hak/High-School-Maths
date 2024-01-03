@@ -101,7 +101,7 @@
 	* [🎬 ១ សញ្ញាណនៃសំណុំ](https://www.youtube.com/watch?v=jXnnlLiwz5w&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=9)
  	* [🎬 ១ សញ្ញាណនៃសំណុំ (ត)](https://www.youtube.com/watch?v=jzBu0VBHIKE&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=11)
 	* [🎬 ២ ប្រមាណវិធីលើសំណុំ](https://www.youtube.com/watch?v=5QRvrz5y22w&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=13)
-	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32O3oQY8PPhyu5MhCmtc4yC)
+	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe323fg5LPw4v0keoVwE2m4bD)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1YtPsSc0qz_GJsWSjdBaHlkMPAXyZhTSF/view?usp=sharing)
 	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល](https://drive.google.com/file/d/13mol7rV96BkdnB2A7zoR9oEXVXe6k9L8/view?usp=sharing)
@@ -120,7 +120,7 @@
 	* [🎬 ១ ចំនួន](https://www.youtube.com/watch?v=a-qTiBtU8YA&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=18)
  	* [🎬 ២ កន្សោមរ៉ាឌីកាល់ (ត)](https://www.youtube.com/watch?v=TjbN6cojhDI&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=19)
 	* [🎬 ៣ ប្រពន័្ធរបាប់ (តចប់)](https://www.youtube.com/watch?v=8hc4_XmoF5Y&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=20)
-	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32O3oQY8PPhyu5MhCmtc4yC)
+	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32-01P1w6UxvVf6qvjl977G)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1YtPsSc0qz_GJsWSjdBaHlkMPAXyZhTSF/view?usp=sharing)
 	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល](https://drive.google.com/file/d/13mol7rV96BkdnB2A7zoR9oEXVXe6k9L8/view?usp=sharing)
