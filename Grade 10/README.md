@@ -133,10 +133,53 @@
 </div>
 
 -----
+# ជំពូកទី ០២ ពហុធា
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ What is Logic?](https://www.youtube.com/watch?v=S0S6NtTeMZ0) && [Introduction to Philosophy and Logic](https://www.youtube.com/watch?v=R2zElslG_tE&t=305s)<br>
+✅ [Why Do Computers Use 1s and 0s? Binary and Transistors Explained.](https://www.youtube.com/watch?v=Xpk67YzOn5w) <br>
+✅ [Understanding Logic Gates](https://www.youtube.com/watch?v=INEtYZqtjTo) <br>
+## មេរៀនទី១: ពហុធា
+**Topics Covered:** `1.សញ្ញាណនៃពហុធា` `2.ប្រមាណវិធីបូក ដក គុណ លើពហុធា` `3.ការដាក់កន្សោមជាផលគុណកត្តា` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 ១ សញ្ញាណនៃឯកធា](https://www.youtube.com/watch?v=4W7oIJvis7Y&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=21)
+ 	* [🎬 ២ សញ្ញាណនៃពហុធា](https://www.youtube.com/watch?v=nBMmUDu5uoA&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=24)
+	* [🎬 ៣ ពន្លាត់ការរេទ្វេធា](https://www.youtube.com/watch?v=iOsc2nLgniU&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=23)
+	* [🎬 4 ការដាក់ជាផលគុណកត្តា](https://www.youtube.com/watch?v=5xHTSIWU-Hs&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=25)
+	* [🎬 4 ការដាក់ជាផលគុណកត្តា (តចប់)](https://www.youtube.com/watch?v=bz7927skT2o&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=26)
+	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe30ELHui9nflIqfeyo76HQax)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល]()
+	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
 ## MOEYS Course Book
    * [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
 
 ## ស្រាវជ្រាវបន្ថែម
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
+##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
+- [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
+- [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
+- [GeoGebra](https://www.geogebra.org/u/tontanhak97)
+- [Duraseksa](https://www.duraseksa.com/home)
+- [E-Learning MoEYS](https://elearning.moeys.gov.kh/?redirect=0)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 
+-----
+## Miscellaneous
+Just a few sites that don't fit into any of the other areas above
 ------
