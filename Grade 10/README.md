@@ -104,7 +104,7 @@
 	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe323fg5LPw4v0keoVwE2m4bD)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1YtPsSc0qz_GJsWSjdBaHlkMPAXyZhTSF/view?usp=sharing)
-	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល](https://drive.google.com/file/d/13mol7rV96BkdnB2A7zoR9oEXVXe6k9L8/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក លឹម ផល្គុន](https://drive.google.com/file/d/1cfqhaOt7NQbR1rheNpkCcwzkQBJ9a5Dr/view?usp=sharing)
 	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/13t2AO1FYbbVxrERuXbmJ01SUn7fVPsiZ/view?usp=sharing)
 ##
 <div align="right">
@@ -123,7 +123,7 @@
 	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32-01P1w6UxvVf6qvjl977G)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1YtPsSc0qz_GJsWSjdBaHlkMPAXyZhTSF/view?usp=sharing)
-	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល](https://drive.google.com/file/d/13mol7rV96BkdnB2A7zoR9oEXVXe6k9L8/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក លឹម ផល្គុន](https://drive.google.com/file/d/1cfqhaOt7NQbR1rheNpkCcwzkQBJ9a5Dr/view?usp=sharing)
 	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/13t2AO1FYbbVxrERuXbmJ01SUn7fVPsiZ/view?usp=sharing)
 ##
 <div align="right">
