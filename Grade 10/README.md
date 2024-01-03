@@ -136,9 +136,9 @@
 # ជំពូកទី ០២ ពហុធា
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
-✅ [ What is Logic?](https://www.youtube.com/watch?v=S0S6NtTeMZ0) && [Introduction to Philosophy and Logic](https://www.youtube.com/watch?v=R2zElslG_tE&t=305s)<br>
-✅ [Why Do Computers Use 1s and 0s? Binary and Transistors Explained.](https://www.youtube.com/watch?v=Xpk67YzOn5w) <br>
-✅ [Understanding Logic Gates](https://www.youtube.com/watch?v=INEtYZqtjTo) <br>
+✅ [What is a Polynomial?](https://www.youtube.com/watch?v=xmJjQ3KyTdw) && [Use Of Polynomials In Daily Life](https://www.youtube.com/watch?v=9j2IZHvNzew)<br>
+✅ [What are POLYNOMIALS used for? REAL LIFE Situations](https://www.youtube.com/watch?v=jLCftTjDLO4)&[Polynomials - Project MATHEMATICS!](https://www.youtube.com/watch?v=Irm7EA4Z5Ps) <br>
+✅ [Polynomial equations (a) | Math History](https://www.youtube.com/watch?v=v8UfrpQ6NGk)&[Roller Coaster Polynomial Project](https://www.youtube.com/watch?v=dapnzrF9LCY) <br>
 ## មេរៀនទី១: ពហុធា
 **Topics Covered:** `1.សញ្ញាណនៃពហុធា` `2.ប្រមាណវិធីបូក ដក គុណ លើពហុធា` `3.ការដាក់កន្សោមជាផលគុណកត្តា` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
@@ -178,10 +178,8 @@
 </div>
 
 -----
-## MOEYS Course Book
-   * [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
-
 ## ស្រាវជ្រាវបន្ថែម
+   - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
    - [x]  [សៀវភៅគ្រូ គណិតវិទ្យាពីថ្នាក់ទី១០ ដល់ទី១២](https://drive.google.com/drive/folders/1aooTkecupaHDw-DOUkIvNpxMJGxaiitp?usp=sharing)
 ##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
@@ -202,4 +200,5 @@
 ​Just a few sites that don't fit into any of the other areas above
 
 * [3 tips on how to study effectively](https://www.youtube.com/watch?v=TjPFZaMe2yw)
+* [Awesome-math](https://github.com/Tontan-Hak/awesome-math)
 ------
