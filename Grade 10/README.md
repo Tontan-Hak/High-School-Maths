@@ -95,12 +95,31 @@
 </div>
 
 ## មេរៀនទី២: សំណុំ
-**Topics Covered:** `1.សញ្ញាណនៃសំណុំ` `2.ឈប្រមាណវិធីលើសំណុំ` `3.លក្ខណៈនៃប្រមាណវិធីលើសំណុំ` `ធ្វើលំហាត់` <br>
+**Topics Covered:** `1.សញ្ញាណនៃសំណុំ` `2.ប្រមាណវិធីលើសំណុំ` `3.លក្ខណៈនៃប្រមាណវិធីលើសំណុំ` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
 	* [🎬 ១ សញ្ញាណនៃសំណុំ](https://www.youtube.com/watch?v=jXnnlLiwz5w&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=9)
  	* [🎬 ១ សញ្ញាណនៃសំណុំ (ត)](https://www.youtube.com/watch?v=jzBu0VBHIKE&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=11)
 	* [🎬 ២ ប្រមាណវិធីលើសំណុំ](https://www.youtube.com/watch?v=5QRvrz5y22w&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=13)
+	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32O3oQY8PPhyu5MhCmtc4yC)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1YtPsSc0qz_GJsWSjdBaHlkMPAXyZhTSF/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក ញឹម​​ ចន្ថុល](https://drive.google.com/file/d/13mol7rV96BkdnB2A7zoR9oEXVXe6k9L8/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/13t2AO1FYbbVxrERuXbmJ01SUn7fVPsiZ/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី៣: ចំនួន
+**Topics Covered:** `1.ចំនួនពិត` `2.កន្សោមរ៉ាឌីកាល់` `3.ប្រព័ន្ធរបាប់` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 ១ ចំនួន](https://www.youtube.com/watch?v=a-qTiBtU8YA&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=18)
+ 	* [🎬 ២ កន្សោមរ៉ាឌីកាល់ (ត)](https://www.youtube.com/watch?v=TjbN6cojhDI&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=19)
+	* [🎬 ៣ ប្រពន័្ធរបាប់ (តចប់)](https://www.youtube.com/watch?v=8hc4_XmoF5Y&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=20)
 	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe32O3oQY8PPhyu5MhCmtc4yC)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1YtPsSc0qz_GJsWSjdBaHlkMPAXyZhTSF/view?usp=sharing)
