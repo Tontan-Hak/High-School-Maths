@@ -65,6 +65,71 @@
 </div>
 
 -----
+# ជំពូក ០៦ ប្រូបាប
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ What is Probability?]() && []()<br>
+✅ [ ]() <br>
+✅ [ ]() <br>
+
+**Topics Covered:** `សំណុំ` `របាប` `ចម្លាស់` `បន្សំ` `លំហសំណាក់និងព្រឹត្តិការណ៍` `ប្រូបាប` `គណនាប្រូបាបដោយប្រើចម្លាស់និងបន្សំ`
+<br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `logic` `សំណុំ` `របាប`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 គោលការណ៍របាប](https://www.youtube.com/watch?v=0Bhiu6_Ru3I)
+    * [🎬 ចម្លាស់](https://www.youtube.com/watch?v=Qd_ZlPQ-9cM&t=1233s)
+    * [🎬 បន្សំ](https://www.youtube.com/watch?v=UoUlMpX_hgc&list=PLHIDhoWPChfVvkhIqL7eUSXxLRtE65B3o&index=3)
+    * [🎬 ប្រៀបធៀបចម្លាស់ និងបន្សំ](https://www.youtube.com/watch?v=ujmUgjV4TT8&t=66s)
+    * [Probability](https://www.youtube.com/watch?v=lhgoNHnJguc&list=PLlfPK5sIGAzamEiGuAVVqZvB0_ll30a0W&index=8)
+      --
+    * [🎬 ប្រូបាប (ភាគ១)](https://www.youtube.com/watch?v=uxjDSketC14&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=26)
+    * [🎬 ប្រូបាប (ភាគ២)](https://www.youtube.com/watch?v=4w4Z-eR8I_o&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=25)
+    * [🎬 ប្រូបាប (ភាគ៣)](https://www.youtube.com/watch?v=dpAD7bB9jkQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=24)
+    * [🎬 ប្រូបាប (ភាគ៤)](https://www.youtube.com/watch?v=60I3e-8jQlQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=23)
+    * [🎬 ប្រូបាប (ភាគ៥)](https://www.youtube.com/watch?v=vh6RSMokpPk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=22)
+    * [🎬 ប្រូបាប (ភាគ៦)](https://www.youtube.com/watch?v=2fJSDdHFFQA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=21)
+    * [🎬 ចម្លាស់និងបន្សំ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJInfzsP07icegmE_7bsnJt)
+- [🎬 ប្រូបាប (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIta6Yi1Kv2_jEFeBKm9ifZ)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EX7OQVwv2ttbwhDtMHxDxhXSPkfzwxjU/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
+# ជំពូក ០៧ ចំនួនកុំផ្លិច
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ What is Complex Number?]() && []()<br>
+✅ [ ]() <br>
+✅ [ ]() <br>
+
+**Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
+<br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)](https://www.youtube.com/watch?v=zJZtUDqQp6A&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=20)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)](https://www.youtube.com/watch?v=95ujRerY9Ig&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=19)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
+- [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
    - [x] [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
