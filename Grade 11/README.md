@@ -1,4 +1,4 @@
-# 🎓 Grade 10 Math Learning resources
+# 🎓 Grade 11 Maths Learning Resources
 ![](https://komarev.com/ghpvc/?username=High-School-Maths&color=brightgreen&label=VISITORS)
 
 ## Content summary
