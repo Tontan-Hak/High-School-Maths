@@ -176,6 +176,52 @@
 </div>
 
 -----
+# ជំពូកទី ០៣ សមីការនិងវិសមីការ
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [What is a ?]() && [Use Of Polynomials In Daily Life]()<br>
+✅ [What are POLYNOMIALS used for? REAL LIFE Situations]()&[Polynomials - Project MATHEMATICS!]() <br>
+✅ []()&[]() <br>
+## មេរៀនទី១: សមីការដឺក្រេទី២មាន​មួយអញ្ញាត
+**Topics Covered:** `1.ចំនួនកុំផ្លិច` `2.សមីការដឺក្រេទី២ មានមួយអញ្ញាត` `3.រូបមន្តសមីការដឺក្រេទី២` `4.ទំនាក់ទំនងរវាងឬស និងមេគុណ` `5.ចំណោទសមីការដឺក្រេទី១មាន១អញ្ញាត` <br>
+**Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 ១ ចំនួនកុំផ្លិច](https://www.youtube.com/watch?v=5skn3oq6EqM)
+ 	* [🎬 ១ ចំនួនកុំផ្លិច(ត)](https://www.youtube.com/watch?v=EwlRgGdFUkw&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=2)
+	* [🎬 ១ ចំនួនកុំផ្លិច(ត)](https://www.youtube.com/watch?v=kLc0ReuIx54&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=3)
+	* [🎬 ១ ចំនួនកុំផ្លិច(តចប់)](https://www.youtube.com/watch?v=9Uu1B6xilA4&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=4)
+	* [🎬 ២ សមីការដឺក្រេទី២ មានមួយអញ្ញាត](https://www.youtube.com/watch?v=N5xhqstn_t0&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=5)
+	* [🎬 ២ សមីការដឺក្រេទី២ មានមួយអញ្ញាត(ត)](https://www.youtube.com/watch?v=ThUUkAIfEc0&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=6)
+	* [🎬 សមីការដឺក្រេទី២មានមួយអញ្ញាត](https://www.youtube.com/playlist?list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបរាងដោយលោក អោ មណីចន្រ្ទា]()
+	* [📚 ឯកសាររៀបររៀងរៀងដោយមជ្ឈមណ្ឌល់គរុនិស្សភូមិភាគបាត់ដំបង](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី២: ប្រមាណវិធីចែកពហុធា
+**Topics Covered:** `1.ប្រមាណវិធីចែកពហុធា` `2.តួចែករួមធំ និងពហុគុណរួមតូច` `3.ប្រមាណវិធីលើប្រភាគសនិទាន` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 ១ ប្រមាណវីធីចែកពហុធា](https://www.youtube.com/watch?v=m5oUA8TZOUI&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=27)
+ 	* [🎬 ២ ប្រមាណវីធីចែកពហុធា (តចប់)](https://www.youtube.com/watch?v=pvPkSBoKPoY&list=PLJaM0qi-Pbjv59AOxH8xjlT-wms01_fm4&index=28)
+	* [🎬 លំហាត់](https://www.youtube.com/playlist?list=PL1Sn7JE-Pe30ELHui9nflIqfeyo76HQax)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AmpEt-l2uOle-3R35dYXkBj6eEEwmm-t/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក លឹម ផល្គុន​ និង អុឹង សំណាង](https://drive.google.com/file/d/1V6ot8QbALuKEgjjqJWX-JZ9wm-tknCV8/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
