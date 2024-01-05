@@ -51,12 +51,99 @@
 -----
 
 # ជំពូកទី ០ រំលឹកមេរៀន
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
 **Topics Covered:** `ចំនួន` `សមីការ` `វិសមីការ` `ប្រពន្ធសមីការ` `ពហុធា` `សំណុំ` `សំណើ` `ត្រីកោណមាត្រ` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ស្វ័យគុណ` `សមាមាត្រ` `ពន្លាតកន្សោម` `កន្សោមពីជគណិត`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
 	* [🎬 Review lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 សមីការនិងវិសមីការ](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=share_link)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
+# ជំពូក ០១ ស្វុីត
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ What is Sequence?]() && []()<br>
+✅ [ ]() <br>
+✅ [ ]() <br>
+## មេរៀនទី០១ ស្វុីតចំនួនពិត
+**Topics Covered:** `1.សញ្ញាណស្វីត` `2.តួទីnនៃស្វីត` `3.អថេរភាពនៃស្វីត` `4.ស្វីតទាល់` `អនុវត្តន៍លំហាត់`
+<br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)]()
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)]()
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)]()
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)]()
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)]()
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
+# ជំពូក ០៧ ចំនួនកុំផ្លិច
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ What is Complex Number?]() && []()<br>
+✅ [ ]() <br>
+✅ [ ]() <br>
+
+**Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
+<br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)](https://www.youtube.com/watch?v=zJZtUDqQp6A&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=20)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)](https://www.youtube.com/watch?v=95ujRerY9Ig&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=19)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
+- [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
+# ជំពូក ០៧ ចំនួនកុំផ្លិច
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ What is Complex Number?]() && []()<br>
+✅ [ ]() <br>
+✅ [ ]() <br>
+
+**Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
+<br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)](https://www.youtube.com/watch?v=zJZtUDqQp6A&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=20)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)](https://www.youtube.com/watch?v=95ujRerY9Ig&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=19)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
+- [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
 ##
 <div align="right">
 	
