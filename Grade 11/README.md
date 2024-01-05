@@ -81,11 +81,11 @@
     * [🎬 2.តួទីnនៃស្វីត](https://www.youtube.com/watch?v=FYI_643_o08&t=50s)
     * [🎬 3.អថេរភាពនៃស្វីត](https://www.youtube.com/watch?v=JuHSlUeYqB4)
     * [🎬 4.ស្វីតទាល់](https://www.youtube.com/watch?v=XRBrpXPRMZ8)
-    * [🎬 អនុវត្តន៍លំហាត់]()
+    * [🎬 អនុវត្តន៍លំហាត់](https://www.youtube.com/watch?v=iUbTVZkTLyU)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1LuMUx1cITIUf7pMHxwm0wLxYoRsBPZVe/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ​ ហុីង វុទ្ធី](https://drive.google.com/file/d/1IpmBVMy91EymvF6FcqCVFg3iy3UOxm7h/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -99,15 +99,15 @@
 <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)]()
+    * [🎬 ស្វុីតនព្វន្ត (ភាគ១)](https://www.youtube.com/watch?v=FxsChsu-6CY)
+    * [🎬 ស្វុីតនព្វន្​ (ភាគ២)](https://www.youtube.com/watch?v=qbkg-nYbqDU)
+    * [🎬 ស្វុីតនព្វន្ត (ភាគ៣)](https://www.youtube.com/watch?v=N3SE2vj7OzI)
+    * [🎬  (ភាគ៤)]()
+    * [🎬  (ភាគ៥)]()
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ឯកសាររៀបររៀងរៀងដោយលោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1j3-U6FqMrKGdj1VTBN9T6iNOsbTMQsOu/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1_PM-giv0bpM8es1jn4yNNeebISK3HHus/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -122,15 +122,15 @@
 <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)]()
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)]()
+    * [🎬 ស្វុីតធរណីមាត្រ (ភាគ១)](https://www.youtube.com/watch?v=sblaLWOhxy8)
+    * [🎬 ស្វុីតធរណីមាត្រ (ភាគ២)](https://www.youtube.com/watch?v=uxZ6rQjQ5TY)
+    * [🎬 ស្វុីតធរណីមាត្រ (ភាគ៣)](https://www.youtube.com/watch?v=d_XXOEy52x4)
+    * [🎬 ស្វុីតធរណីមាត្រ (ភាគ៤)](https://www.youtube.com/watch?v=aysvHOlK_U4)
+    * [🎬 ស្វុីតធរណីមាត្រ​ (ភាគ៥)]()
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុននិងសែន និសិដ្ឋ](https://drive.google.com/file/d/19ck3Gq_5dnMqF2r5IxT9r2Yvva9JkOl4/view?usp=sharing)
 ##
 <div align="right">
 	
