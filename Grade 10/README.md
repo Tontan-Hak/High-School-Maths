@@ -194,7 +194,7 @@
 	* [🎬 ២ សមីការដឺក្រេទី២ មានមួយអញ្ញាត(ត)](https://www.youtube.com/watch?v=ThUUkAIfEc0&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=6)
 	* [🎬 សមីការដឺក្រេទី២មានមួយអញ្ញាត](https://www.youtube.com/playlist?list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1_8_OInX_vo0vCxS67XfB2PjlA9HyMklx/view?usp=sharing)
 	* [📚 ឯកសាររៀបរាងដោយលោក អោ មណីចន្រ្ទា]()
 	* [📚 ឯកសាររៀបររៀងរៀងដោយមជ្ឈមណ្ឌល់គរុនិស្សភូមិភាគបាត់ដំបង](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=sharing)
 ##
