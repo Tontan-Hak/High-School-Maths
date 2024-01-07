@@ -222,6 +222,7 @@
 </div>
 
 -----
+# សៀវភៅអេឡិចត្រូនិច
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
@@ -232,6 +233,10 @@
 - [GeoGebra](https://www.geogebra.org/u/tontanhak97)
 - [Duraseksa](https://www.duraseksa.com/home)
 - [E-Learning MoEYS](https://elearning.moeys.gov.kh/?redirect=0)
+## រូបមន្តសង្ខេប-PDF
+* [រូបមន្ត](https://drive.google.com/file/d/1BTGggIMyXp3a_OHj6_P529R4qOsIq_KH/view?usp=sharing)
+## វិញ្ញាសារត្រៀម (optional)
+* [វិញ្ញាសាគណិតថ្នាក់ទី១០](https://drive.google.com/file/d/1Z_U9XCbcUU2_iAyvcEZNFUoLo99emYeH/view?usp=sharing)
 ##
 <div align="right">
 	
