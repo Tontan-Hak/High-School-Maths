@@ -42,7 +42,8 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 >    * [Part 2 of 5, "What Students Should Know About How People Learn"](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) 
 >    * [Part 3 of 5, "Cognitive Principles for Optimizing Learning"](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) 
 >    * [Part 4 of 5, "Putting Principles for Learning into Practice"](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) 
->    * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) 		
+>    * [Part 5 of 5, "I Blew the Exam, Now What?"](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) 
+>  - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 >  <!--END_SECTION:activity-->
 >  </details>
 >	
@@ -57,7 +58,6 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 >     * [🎬 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.youtube.com/playlist?list=PLWM_YBhktZmw3EDBWap0kpZiZwR6YtjsA)
 >     * [🎬 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
 >     * [🎬 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU)
->  - [Marty Lobdell - Study Less Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0)
 >  <!--END_SECTION:activity-->
 >  </details>
 >
