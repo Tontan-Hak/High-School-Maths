@@ -209,12 +209,11 @@
 **Topics Covered:** `1.ប្រព័ន្ធសមីការដឺក្រេទី១មាន៣អញ្ញាត` `2.ប្រព័ន្ធសមីការដឺក្រេទី១និងសមីការដឺក្រេទី២` `3.សមីការដឺក្រេលំដាប់ខ្ពស់ងាយ` `4.ទ្រឹស្តីបទសំណល់ និង ផលគុណកត្តា` `5.ដោះស្រាយសមីការ ដោយប្រើទ្រឹស្តីបទកត្តា` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 ១ ]()
- 	* [🎬 ២ (តចប់)]()
-	* [🎬 លំហាត់]()
+	* [🎬 ប្រព៏ន្ធសមីការ​ (Video Playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfU-S6c2_Qkw_kjvJeCvND0z)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [📚 ដំណោះស្រាយលំហាត់]()
-	* [📚 ឯកសាររៀបរាងដោយលោក លឹម ផល្គុន​ និង អុឹង សំណាង]()
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1_8_OInX_vo0vCxS67XfB2PjlA9HyMklx/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក​​ លី ចាន់វិច្ឆរ៉ូ](https://drive.google.com/file/d/10JKSWuQjNEo8H_iYr4VCjvNpO8ImUMT9/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងរៀងដោយមជ្ឈមណ្ឌល់គរុនិស្សភូមិភាគបាត់ដំបង](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -227,12 +226,11 @@
 **Topics Covered:** `1.វិសមភាព` `2.វិសមីការដឺក្រេទី១ មាន១អញ្ញាត` `3.ប្រព័ន្ធវិសមីការដឺក្រេទី១ មាន១ អញ្ញាត` `4.វិសមីការដឺក្រេទី២ មាន១អញ្ញាត` `5.ការបង្ហាញវិសមភាព` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 ១ ]()
- 	* [🎬 ២ (តចប់)]()
-	* [🎬 លំហាត់]()
+	* [🎬 វិសមីការ (Video playlist) ](https://www.youtube.com/playlist?list=PLHIDhoWPChfW742jUT5MEsfyq3UdV1fba)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [📚 ដំណោះស្រាយលំហាត់]()
-	* [📚 ឯកសាររៀបរាងដោយលោក លឹម ផល្គុន​ និង អុឹង សំណាង]()
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1_8_OInX_vo0vCxS67XfB2PjlA9HyMklx/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក​​ លី ចាន់វិច្ឆរ៉ូ](https://drive.google.com/file/d/10JKSWuQjNEo8H_iYr4VCjvNpO8ImUMT9/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងរៀងដោយមជ្ឈមណ្ឌល់គរុនិស្សភូមិភាគបាត់ដំបង](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=sharing)
 ##
 <div align="right">
 	
