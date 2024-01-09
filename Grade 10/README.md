@@ -9,7 +9,7 @@
     * [មេរៀនទី ២ \. សំណុំ](#មេរៀនទី-២-សំណុំ)
     * [មេរៀនទី ៣ \. ចំនួន](#មេរៀនទី-៣-ចំនួន)
 * [x] [ជំពូកទី ០២ \. ពហុធា](#ជំពូកទី-០២-ពហុធា) 
-    * [មេរៀនទី ១\. ពហុធា](#)
+    * [មេរៀនទី ១\. ពហុធា](#មេរៀនទី១-ពហុធា)
     * [មេរៀនទី ២\. ប្រមាណវិធីចែកពហុធា](#)
 * [x] [ជំពូកទី ០៣ \. សមីការនិងវិសមីការ](#ជំពូកទី-០៣-សមីការនិងវិសមីការ) 
     * [មេរៀនទី ១\. សមីការដឺក្រេទី២មាន​មួយអញ្ញាត](#)
@@ -138,7 +138,7 @@
 ✅ [What is a Polynomial?](https://www.youtube.com/watch?v=xmJjQ3KyTdw) && [Use Of Polynomials In Daily Life](https://www.youtube.com/watch?v=9j2IZHvNzew)<br>
 ✅ [What are POLYNOMIALS used for? REAL LIFE Situations](https://www.youtube.com/watch?v=jLCftTjDLO4)&[Polynomials - Project MATHEMATICS!](https://www.youtube.com/watch?v=Irm7EA4Z5Ps) <br>
 ✅ [Polynomial equations (a) | Math History](https://www.youtube.com/watch?v=v8UfrpQ6NGk)&[Roller Coaster Polynomial Project](https://www.youtube.com/watch?v=dapnzrF9LCY) <br>
-## មេរៀនទី១: ពហុធា
+## មេរៀនទី១ ពហុធា
 **Topics Covered:** `1.សញ្ញាណនៃពហុធា` `2.ប្រមាណវិធីបូក ដក គុណ លើពហុធា` `3.ការដាក់កន្សោមជាផលគុណកត្តា` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ពិជគណិត` `ការធ្វើប្រមាណវិធី` `ធរណីមាត្រ` `សំណុំ` `ប្រព័ន្ធរបាបគោល` `ការតាងគណិតវិទ្យា`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
