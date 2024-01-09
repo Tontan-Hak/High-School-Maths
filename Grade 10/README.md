@@ -58,6 +58,7 @@
 	* [🎬 Review lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 សមីការនិងវិសមីការ](https://drive.google.com/file/d/1TUSRkVi_Un8xXXxXXQcBrzPrcbx-ZEm9/view?usp=share_link)
+	* [📚 វិសមីការដឺក្រទីមួយមានមួយអញ្ញាត](https://drive.google.com/file/d/1zjK2Oz-8fr9_ARHcZ7r0QLQEydgTOF5d/view?usp=sharing)
 ##
 <div align="right">
 	
