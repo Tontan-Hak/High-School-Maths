@@ -246,7 +246,7 @@
 ✅ []()&[]() <br>
 ✅ []()&[]() <br>
 ## មេរៀនទី១ កូរអដោនេនៃចំណុចនៅលើប្លង់
-**Topics Covered:** `1.ចំនួនកុំផ្លិច` `2.សមីការដឺក្រេទី២ មានមួយអញ្ញាត` `3.រូបមន្តសមីការដឺក្រេទី២` `4.ទំនាក់ទំនងរវាងឬស និងមេគុណ` `5.ចំណោទសមីការដឺក្រេទី១មាន១អញ្ញាត` <br>
+**Topics Covered:** `1.កូអរដោនេនៃចំណុចនៅលើបន្ទាត់` `2.កូអរដោនេនៃចំណុចក្នុងប្លង់` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
 	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
@@ -254,7 +254,7 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
 	* [📚 ឯកសាររៀបរាងដោយលោក​​]()
-	* [📚 ឯកសាររៀបររៀងរៀងដោយ]()
+	* [📚 ឯកសាររៀបររៀងដោយ]()
 ##
 <div align="right">
 	
@@ -262,6 +262,61 @@
 	
 </div>
 
+------
+## មេរៀនទី២ សមីការបន្ទាត់
+**Topics Covered:** `1.និយមន័យ` `2.ចម្ងាយពីចំណុច និងបន្ទាត់` `3.ការប្រើកូអរដោនេ ដើម្បីបង្ហាញលក្ខណៈរូប` `4.សមីការសំណុំចំណុច` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក​​]()
+	* [📚 ឯកសាររៀបររៀងដោយ]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+------
+## មេរៀនទី៣ សមីការរង្វង់
+**Topics Covered:** `1.សមីការង្វង់` `2.រង្វង់ និងបន្ទាត់` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក​​]()
+	* [📚 ឯកសាររៀបររៀងដោយ]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+------
+## មេរៀនទី៤ ដោះស្រាយវិសមីការតាមក្រាប
+**Topics Covered:** `1.ដំណោះស្រាយវិសមីការតាមក្រាប` `2.ដំណោះស្រាយប្រព័ន្ធវិសមីការតាមក្រាប` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក​​]()
+	* [📚 ឯកសាររៀបររៀងដោយ]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+------
 # សៀវភៅអេឡិចត្រូនិច
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
