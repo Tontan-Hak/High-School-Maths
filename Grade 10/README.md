@@ -267,7 +267,7 @@
 **Topics Covered:** `1.និយមន័យ` `2.ចម្ងាយពីចំណុច និងបន្ទាត់` `3.ការប្រើកូអរដោនេ ដើម្បីបង្ហាញលក្ខណៈរូប` `4.សមីការសំណុំចំណុច` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
+	* [🎬 សមីការបន្ទាត់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfWWaF_pRJxW9S9Vjtcz35aA)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
@@ -285,7 +285,7 @@
 **Topics Covered:** `1.សមីការង្វង់` `2.រង្វង់ និងបន្ទាត់` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
+	* [🎬 សមីការរង្វង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVwcRvTElYhSFODSmv953Xp)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
@@ -303,7 +303,7 @@
 **Topics Covered:** `1.ដំណោះស្រាយវិសមីការតាមក្រាប` `2.ដំណោះស្រាយប្រព័ន្ធវិសមីការតាមក្រាប` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
+	* [🎬 ដោះស្រាយវិសមីការតាមក្រាប (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVX_nAAXRJFU2hBH3WOAR5g)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
