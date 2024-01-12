@@ -263,7 +263,6 @@
 	
 </div>
 
-------
 ## មេរៀនទី២ សមីការបន្ទាត់
 **Topics Covered:** `1.និយមន័យ` `2.ចម្ងាយពីចំណុច និងបន្ទាត់` `3.ការប្រើកូអរដោនេ ដើម្បីបង្ហាញលក្ខណៈរូប` `4.សមីការសំណុំចំណុច` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
@@ -281,7 +280,6 @@
 	
 </div>
 
-------
 ## មេរៀនទី៣ សមីការរង្វង់
 **Topics Covered:** `1.សមីការង្វង់` `2.រង្វង់ និងបន្ទាត់` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
@@ -299,7 +297,6 @@
 	
 </div>
 
-------
 ## មេរៀនទី៤ ដោះស្រាយវិសមីការតាមក្រាប
 **Topics Covered:** `1.ដំណោះស្រាយវិសមីការតាមក្រាប` `2.ដំណោះស្រាយប្រព័ន្ធវិសមីការតាមក្រាប` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
@@ -318,6 +315,64 @@
 </div>
 
 ------
+# ជំពូកទី ០៥ អនុគមន៍និងក្រាបនៃអនុគមន៍
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [What is a ?]() && []()<br>
+✅ []()&[]() <br>
+✅ []()&[]() <br>
+## មេរៀនទី១ អនុគមន៍និងក្រាបនៃអនុគមន៍
+**Topics Covered:** `1.សញ្ញាណនៃអនុគមន៍` `2.ដែនកំណត់ និងសំណុំរូបភាព` `3.អនុគមន៍កើន និង​អនុគមន៍ចុះ` `4.ក្រាបនៃអនុគមន៍` `5.អនុគមន៍ច្រាស` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 អនុគមន៍និងក្រាបនៃអនុគមន៍ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVzhiZXbENHXkcxr4I0zgnl)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1G8nC6aCjWUu74sgdoodS566aZDMzXovK/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥](https://drive.google.com/file/d/1YFwq9oT2WcqrhTclbjXjpkJi4kFi-U_9/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី២ អនុគមន៍ដឺក្រេទី២និងក្រាប
+**Topics Covered:** `1.ក្រាបនៃអនុគមន៍ y=ax^2` `2.ក្រាបនៃអនុគមន៍ y=a(x-p)^2` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 អនុគមន៍និងក្រាបនៃអនុគមន៍ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVzhiZXbENHXkcxr4I0zgnl)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1G8nC6aCjWUu74sgdoodS566aZDMzXovK/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥](https://drive.google.com/file/d/1YFwq9oT2WcqrhTclbjXjpkJi4kFi-U_9/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី៣ អនុគមន៍សនិទាន និង អសនិទាន
+**Topics Covered:** `1.កូអរដោនេនៃចំណុចនៅលើបន្ទាត់` `2.កូអរដោនេនៃចំណុចក្នុងប្លង់` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 អនុគមន៍និងក្រាបនៃអនុគមន៍ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVzhiZXbENHXkcxr4I0zgnl)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1G8nC6aCjWUu74sgdoodS566aZDMzXovK/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥](https://drive.google.com/file/d/1YFwq9oT2WcqrhTclbjXjpkJi4kFi-U_9/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-------
 # សៀវភៅអេឡិចត្រូនិច
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
