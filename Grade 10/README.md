@@ -252,9 +252,9 @@
 	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-	* [📚 ដំណោះស្រាយលំហាត់]()
-	* [📚 ឯកសាររៀបរាងដោយលោក​​ លី ចាន់វិច្ឆរ៉ូ]()
-	* [📚 ឯកសាររៀបររៀងរៀងដោយមជ្ឈមណ្ឌល់គរុនិស្សភូមិភាគបាត់ដំបង]()
+	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយលោក​​]()
+	* [📚 ឯកសាររៀបររៀងរៀងដោយ]()
 ##
 <div align="right">
 	
