@@ -325,12 +325,16 @@
 **Topics Covered:** `1.សញ្ញាណនៃអនុគមន៍` `2.ដែនកំណត់ និងសំណុំរូបភាព` `3.អនុគមន៍កើន និង​អនុគមន៍ចុះ` `4.ក្រាបនៃអនុគមន៍` `5.អនុគមន៍ច្រាស` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 អនុគមន៍ និងក្រាបនៃអនុគមន៍(ភាគ១)​](https://www.youtube.com/watch?v=xs66kA5Vc_U)
+	* [🎬 អនុគមន៍ និងក្រាបនៃអនុគមន៍(ភាគ២)​](https://www.youtube.com/watch?v=OyCT28oARUI)
+	* [🎬 អនុគមន៍ និងក្រាបនៃអនុគមន៍(ភាគ៣)​](https://www.youtube.com/watch?v=ibDINhLhaG4)
+	* [🎬 អនុគមន៍ និងក្រាបនៃអនុគមន៍(ភាគ៤ តចប់)​](https://www.youtube.com/watch?v=63_6vk0-Ht0)
 	* [🎬 អនុគមន៍និងក្រាបនៃអនុគមន៍ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVzhiZXbENHXkcxr4I0zgnl)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1G8nC6aCjWUu74sgdoodS566aZDMzXovK/view?usp=sharing)
-	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
 	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥](https://drive.google.com/file/d/1YFwq9oT2WcqrhTclbjXjpkJi4kFi-U_9/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -342,12 +346,15 @@
 **Topics Covered:** `1.ក្រាបនៃអនុគមន៍ y=ax^2` `2.ក្រាបនៃអនុគមន៍ y=a(x-p)^2` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 អនុគមន៍ដឺក្រេទី២ និងក្រាប (ភាគ១)​](https://www.youtube.com/watch?v=XB-vLSacUAM)
+	* [🎬 អនុគមន៍ដឺក្រេទី២ និងក្រាប(ភាគ២)](https://www.youtube.com/watch?v=NihWNG0wDfg)
 	* [🎬 អនុគមន៍និងក្រាបនៃអនុគមន៍ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVzhiZXbENHXkcxr4I0zgnl)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1G8nC6aCjWUu74sgdoodS566aZDMzXovK/view?usp=sharing)
-	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
 	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥](https://drive.google.com/file/d/1YFwq9oT2WcqrhTclbjXjpkJi4kFi-U_9/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
+
 ##
 <div align="right">
 	
@@ -359,12 +366,15 @@
 **Topics Covered:** `1.កូអរដោនេនៃចំណុចនៅលើបន្ទាត់` `2.កូអរដោនេនៃចំណុចក្នុងប្លង់` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 អនុគមន៍សនិទាននិងអនុគមន៍អសនិទាន](https://www.youtube.com/watch?v=WMeclQi9byU)
+	* [🎬 អនុគមន៍សនិទាននិងអនុគមន៍អសនិទាន(តចប់)](https://www.youtube.com/watch?v=UuMloZIQV1w)
 	* [🎬 អនុគមន៍និងក្រាបនៃអនុគមន៍ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVzhiZXbENHXkcxr4I0zgnl)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1G8nC6aCjWUu74sgdoodS566aZDMzXovK/view?usp=sharing)
-	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
 	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥](https://drive.google.com/file/d/1YFwq9oT2WcqrhTclbjXjpkJi4kFi-U_9/view?usp=sharing)
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
+
 ##
 <div align="right">
 	
