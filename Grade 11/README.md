@@ -220,10 +220,8 @@
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ស្វុីតនព្វន្ត (ភាគ១)](https://www.youtube.com/watch?v=FxsChsu-6CY)
-    * [🎬 ស្វុីតនព្វន្​ (ភាគ២)](https://www.youtube.com/watch?v=qbkg-nYbqDU)
+    * [🎬 ស្វុីតនព្វន្ត (ភាគ២)](https://www.youtube.com/watch?v=qbkg-nYbqDU)
     * [🎬 ស្វុីតនព្វន្ត (ភាគ៣)](https://www.youtube.com/watch?v=N3SE2vj7OzI)
-    * [🎬  (ភាគ៤)]()
-    * [🎬  (ភាគ៥)]()
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយលោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1j3-U6FqMrKGdj1VTBN9T6iNOsbTMQsOu/view?usp=sharing)
@@ -246,7 +244,6 @@
     * [🎬 ស្វុីតធរណីមាត្រ (ភាគ២)](https://www.youtube.com/watch?v=uxZ6rQjQ5TY)
     * [🎬 ស្វុីតធរណីមាត្រ (ភាគ៣)](https://www.youtube.com/watch?v=d_XXOEy52x4)
     * [🎬 ស្វុីតធរណីមាត្រ (ភាគ៤)](https://www.youtube.com/watch?v=aysvHOlK_U4)
-    * [🎬 ស្វុីតធរណីមាត្រ​ (ភាគ៥)]()
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
@@ -259,27 +256,31 @@
 </div>
 
 -----
-# ជំពូក ០៧ ចំនួនកុំផ្លិច
+# ជំពូក ០៤ អនុគមន៏ត្រីកោណមាត្រ
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
 ✅ [ What is Complex Number?]() && []()<br>
 ✅ [ ]() <br>
 ✅ [ ]() <br>
-
-**Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
+## មេរៀនទី០១ អនុគមន៏ត្រីកោណមាត្រ
+**Topics Covered:** `1.រង្វាស់មុំ` `2.អនុគមន៏ត្រីកោណមាត្រ` `ស្វ័យ` `អនុវត្ត`
 <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)](https://www.youtube.com/watch?v=zJZtUDqQp6A&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=20)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)](https://www.youtube.com/watch?v=95ujRerY9Ig&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=19)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
-- [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ១)](https://www.youtube.com/watch?v=cpDRY3vRKk4&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=2)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ២)](https://www.youtube.com/watch?v=pZitORaJqRE&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=2)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ៣)](https://www.youtube.com/watch?v=brv9jvXu9kA&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=3)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ៤)](https://www.youtube.com/watch?v=rQUlGmcIVgE&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=4)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ៥)](https://www.youtube.com/watch?v=xGlC-Ht-DKE&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=5)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ៦)](https://www.youtube.com/watch?v=NkVRCl_7jlA&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=6)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ៧)](https://www.youtube.com/watch?v=CtwIeBSap_g&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=7)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ៨)](https://www.youtube.com/watch?v=BHVwgRVV-8k&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=19)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ៩)](https://www.youtube.com/watch?v=z0u0E0lYLw0&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=2)
+    * [🎬 អនុគមន៏ត្រីកោណមាត្រ (ភាគ១០)](https://www.youtube.com/watch?v=DDX06Ge_x_w&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=9)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
 ##
 <div align="right">
 	
@@ -287,28 +288,53 @@
 	
 </div>
 
+## មេរៀនទី០២ រូបមន្តអនុគមន៍ត្រីកោណមាត្រ
+**Topics Covered:** `1.រង្វាស់មុំ` `2.អនុគមន៏ត្រីកោណមាត្រ` `ស្វ័យ` `អនុវត្ត`
+<br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ១)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ២)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៣)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៤)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៥)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៦)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៧)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៨)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៩)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ១០)]()
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
-# ជំពូក ០៧ ចំនួនកុំផ្លិច
+# ជំពូក ០៦ លីមីតនិងដេរីវេ
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
 ✅ [ What is Complex Number?]() && []()<br>
 ✅ [ ]() <br>
 ✅ [ ]() <br>
-
+## មេរៀនទី០១ លីមីតនិងដេរីវេ
 **Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
 <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)](https://www.youtube.com/watch?v=zJZtUDqQp6A&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=20)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)](https://www.youtube.com/watch?v=95ujRerY9Ig&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=19)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
-    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
-- [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
+    * [🎬 (ភាគ១)]()
+    * [🎬 (ភាគ២)]()
+    * [🎬 (ភាគ៣)]()
+    * [🎬 (ភាគ៤)]()
+    * [🎬 (ភាគ៥)]()
+- [🎬 (Vedio playlist)]()
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
 ##
 <div align="right">
 	
@@ -333,7 +359,6 @@
     * [🎬 បន្សំ](https://www.youtube.com/watch?v=UoUlMpX_hgc&list=PLHIDhoWPChfVvkhIqL7eUSXxLRtE65B3o&index=3)
     * [🎬 ប្រៀបធៀបចម្លាស់ និងបន្សំ](https://www.youtube.com/watch?v=ujmUgjV4TT8&t=66s)
     * [Probability](https://www.youtube.com/watch?v=lhgoNHnJguc&list=PLlfPK5sIGAzamEiGuAVVqZvB0_ll30a0W&index=8)
-      --
     * [🎬 ប្រូបាប (ភាគ១)](https://www.youtube.com/watch?v=uxjDSketC14&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=26)
     * [🎬 ប្រូបាប (ភាគ២)](https://www.youtube.com/watch?v=4w4Z-eR8I_o&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=25)
     * [🎬 ប្រូបាប (ភាគ៣)](https://www.youtube.com/watch?v=dpAD7bB9jkQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=24)
