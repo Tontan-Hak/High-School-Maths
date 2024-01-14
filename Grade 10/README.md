@@ -396,8 +396,7 @@
 	* [🎬 ផលធៀបត្រីកោណមាត្រ(ភាគ១)](https://www.youtube.com/watch?v=fOpnmvrDu40)
 	* [🎬 ផលធៀបត្រីកោណមាត្រ(ភាគ២)](https://www.youtube.com/watch?v=q7U1iAOTEhs)
 	* [🎬 ផលធៀបត្រីកោណមាត្រ(ភាគបញ្ចប់)](https://www.youtube.com/watch?v=kBGyKM7uBgk)
-	* [🎬 ​]()
-	* [🎬  (Video playlist)]()
+	* [🎬 ផលធៀបត្រីកោណមាត្រ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVZ9Uv-PAaDaJBlWs7pn2X0)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
@@ -467,7 +466,6 @@
 	* [🎬 1.មធ្យម](https://www.youtube.com/watch?v=ESJ-M0U2Sy4)
 	* [🎬 2.មេដ្យាន](https://www.youtube.com/watch?v=wTYsuI8W5DM)
 	* [🎬 3.ម៉ូត](https://www.youtube.com/watch?v=EtJxJnjkUek)
-	* [🎬 ​]()
 	* [🎬  (Video playlist)]()
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
@@ -513,10 +511,8 @@
 **Topics Covered:** `1.បន្សំ` `2.ទ្រឹស្តីទ្វេធារ` `3.ទ្រឹស្តីបទទ្វេធា` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 បន្សំ]()
-	* [🎬 បន្សំ(តចប់)]()
-	* [🎬 ]()
-	* [🎬 ​]()
+	* [🎬 បន្សំ](https://www.youtube.com/watch?v=7Kb93Al3MAI&t=1s)
+	* [🎬 បន្សំ(តចប់)](https://www.youtube.com/watch?v=6FUzban7WOQ&t=1s)
 	* [🎬  (Video playlist)]()
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
@@ -564,9 +560,9 @@
 **Topics Covered:** `1.វ៉ិចទ័រទីតាំង` `2.បន្ទាត់ និងវ៉ិចទ័រ` `3.ទរង្វង់និងវ៉ិចទ័រ` `4.ការអនុវត្តន៍វ៉ិចទ័រលើរូបធរណីមាត្រ` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 ]()
-	* [🎬 ]()
-	* [🎬 ]()
+	* [🎬 ការអនុវត្តន៍នៃវ៉ិចទ័រ (ភាគ១)](https://www.youtube.com/watch?v=zBovXySc7-U&list=PLJaM0qi-Pbjthbc7QgKolX_oHo5sncUEp&index=24)
+	* [🎬 ការអនុវត្តន៍នៃវ៉ិចទ័រ(ភាគ២)](https://www.youtube.com/watch?v=FtJCWArkJBg&list=PLJaM0qi-Pbjthbc7QgKolX_oHo5sncUEp&index=26)
+	* [🎬 ការអនុវត្តន៍នៃវ៉ិចទ័រ(ភាគ៣](https://www.youtube.com/watch?v=A99_DRJ3Whs&list=PLJaM0qi-Pbjthbc7QgKolX_oHo5sncUEp&index=28&t=1s)
 	* [🎬 ​]()
 	* [🎬  (Video playlist)]()
 
