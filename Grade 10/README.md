@@ -722,7 +722,11 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 ---------
+# វិឌីអូមេរៀនទាំងអស់
+- [🎬 G10: គណិតវិទ្យាកម្រិតមូលដ្ឋាន _ Basic Mathematics](https://www.youtube.com/playlist?list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44)
+- [🎬 G10: គណិតវិទ្យាកម្រិតខ្ពស់ _ Advanced Mathematics](https://www.youtube.com/playlist?list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23)
 # សៀវភៅអេឡិចត្រូនិច
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
