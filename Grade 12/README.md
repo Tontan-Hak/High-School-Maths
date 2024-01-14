@@ -496,7 +496,7 @@
 </div>
 
 -----
-# ebook
+# សៀវភៅអេឡិចត្រូនិច
 
 #### 🎯 សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប 🥇
 
@@ -531,22 +531,10 @@
 
 #### លំហាត់ចំរុះ (optional)
 
-#### សៀវភៅពុម្ភគណិតវិទ្យារបស់ក្រសួងអប់រំ
-   * [សៀវភៅគណិតថ្នាក់ទី៧](https://drive.google.com/file/d/1gnRBakNnpeUIzxUK3PhBW9_34uZo4znK/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី៨](https://drive.google.com/file/d/1RXZtUSAcNNtDcM5MPvsiHXmpe8PCINsn/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី៩](https://drive.google.com/file/d/1slsaVbBUIkVTjinwJ2QXZmoGcb_pUowa/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី១០ ភាគ១](https://drive.google.com/file/d/1R27OBGMP-uRU7uuQIVTIUq_Jrf7PD9jk/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី១០ ភាគ២](https://drive.google.com/file/d/1zYlV-i26SXxnDGw56FsYhC59o7fGmmaZ/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី១១ ភាគ១](https://drive.google.com/file/d/1xo5RV-z4fr6HE3xkFxniKFU9TYAYb0ac/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី១១ ភាគ២](https://drive.google.com/file/d/1luFBvb8Aq2VI9bYhBbUIbNIgXVANzHwd/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ១](https://drive.google.com/file/d/1Zjm-waR6q8W0lofVXeE1TZ3OV95W-LWb/view?usp=sharing)
-   * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ២](https://drive.google.com/file/d/12JBN3f2rHgjrFRisgRThDeZb-xf_oMZx/view?usp=sharing)
-
-## MOEYS Course Book
-   * [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
-
 ## ស្រាវជ្រាវបន្ថែម
+   - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
+   - [x]  [សៀវភៅគ្រូ គណិតវិទ្យាពីថ្នាក់ទី១០ ដល់ទី១២](https://drive.google.com/drive/folders/1aooTkecupaHDw-DOUkIvNpxMJGxaiitp?usp=sharing)
 ##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
 - [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
