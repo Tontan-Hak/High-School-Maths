@@ -20,31 +20,31 @@
     * [មេរៀនទី ២\. សមីការបន្ទាត់](#មេរៀនទី២-សមីការបន្ទាត់)
     * [មេរៀនទី ៣\. សមីការរង្វង់](#មេរៀនទី៣-សមីការរង្វង់)
     * [មេរៀនទី ៤\. ដំណោះស្រាយវិសមីការតាមក្រាប](#មេរៀនទី៤-ដោះស្រាយវិសមីការតាមក្រាប)
-* [x] [ជំពូកទី ០៥\. អនុគមន៍និងក្រាបនៃអនុគមន៍](#)
-    * [មេរៀនទី ១\. អនុគមន៍និងក្រាបនៃអនុគមន៍](#)
-    * [មេរៀនទី ២\. អនុគមន៍ដឺក្រេទី២និងក្រាបរបស់វា](#)
-    * [មេរៀនទី ៣\. អនុកមន៍សនិទាន​​​ អនុគមន៍អសនិទាន](#)
-* [x] [ជំពូកទី ០៦\. ផលធៀបត្រីកោណមាត្រ](#)
-    * [មេរៀនទី ១\. ផលធៀបត្រីកោណមាត្រ](#)
-    * [មេរៀនទី ២\. អនុវត្តន៍ត្រីកោណមាត្រ](#)
-* [x] [ជំពូកទី ០៧ \. ស្ថិតិ](#) 
-    * [មេរៀនទី ១\. បំណែងចែកប្រេកង់និងការតាងក្រាប](#)
-    * [មេរៀនទី ២\. រង្វាស់ទីតាំង](#)
-* [x] [ជំពូកទី ០៨ \. ចម្លាស់និងបន្សំ](#) 
-    * [មេរៀនទី ១\. ចម្លាស់](#)
-    * [មេរៀនទី ២\. បន្សំ](#)
-* [x] [ជំពូកទី ០៩ \. វុិចទ៏រក្នុងប្លង់](#) 
-    * [មេរៀនទី ១\. វុិចទ័រនិងប្រមាណវិធីលើវុិចទ័រ](#)
-    * [មេរៀនទី ២\. ការអនុវត្តនៃវុិចទ័រ](#)
-* [x] [ជំពូកទី ១០ \. បំលែងរូបក្នុងប្លង់](#) 
-    * [មេរៀនទី ១\. បំលែងកិល](#)
-    * [មេរៀនទី ២\. បំលែងឆ្លុះ](#)
-    * [មេរៀនទី ៣\. បំលែងវិល](#)
-    * [មេរៀនទី ៤\. បំលែងចាំង](#)
-* [x] [ជំពូកទី ១១ \. ធរណីមាត្រក្នុងលំហ](#) 
-    * [មេរៀនទី ១\. រូបធរណីមាត្រក្នុងលំហ](#)
-    * [មេរៀនទី ២\. បន្ទាត់និងប្លង់ស្របក្នុងលំហ](#)
-    * [មេរៀនទី ៣\. ភាពអរតូកូណាល់ក្នុងលំហ](#)          
+* [x] [ជំពូកទី ០៥\. អនុគមន៍និងក្រាបនៃអនុគមន៍](#ជំពូកទី-០៥-អនុគមន៍និងក្រាបនៃអនុគមន៍)
+    * [មេរៀនទី ១\. អនុគមន៍និងក្រាបនៃអនុគមន៍](#មេរៀនទី១-អនុគមន៍និងក្រាបនៃអនុគមន៍)
+    * [មេរៀនទី ២\. អនុគមន៍ដឺក្រេទី២និងក្រាបរបស់វា](#មេរៀនទី២-អនុគមន៍ដឺក្រេទី២និងក្រាប)
+    * [មេរៀនទី ៣\. អនុកមន៍សនិទាន​​​ អនុគមន៍អសនិទាន](#មេរៀនទី៣-អនុគមន៍សនិទាន-និង-អសនិទាន)
+* [x] [ជំពូកទី ០៦\. ផលធៀបត្រីកោណមាត្រ](#ជំពូកទី-០៦-ផលធៀបត្រីកោណមាត្រ)
+    * [មេរៀនទី ១\. ផលធៀបត្រីកោណមាត្រ](#មេរៀនទី១-ផលធៀបត្រីកោណមាត្រ)
+    * [មេរៀនទី ២\. អនុវត្តន៍ត្រីកោណមាត្រ](#មេរៀនទ២-អនុវត្តន៍ត្រីកោណមាត្រ)
+* [x] [ជំពូកទី ០៧ \. ស្ថិតិ](#ជំពូកទី-០៧-ស្ថិតិ) 
+    * [មេរៀនទី ១\. បំណែងចែកប្រេកង់និងការតាងក្រាប](#មេរៀនទី១-បំណែងចែកប្រេកង់)
+    * [មេរៀនទី ២\. រង្វាស់ទីតាំង](#មេរៀនទ២-រង្វាស់ទីតាំង)
+* [x] [ជំពូកទី ០៨ \. ចម្លាស់និងបន្សំ](#ជំពូកទី-០៨-ចម្លាស់និងបន្សំ) 
+    * [មេរៀនទី ១\. ចម្លាស់](#មេរៀនទី១-ចម្លាស់)
+    * [មេរៀនទី ២\. បន្សំ](#មេរៀនទ២-បន្សំ)
+* [x] [ជំពូកទី ០៩ \. វុិចទ៏រក្នុងប្លង់](#ជំពូកទី-០៩-វុិចទ៏រក្នុងប្លង់) 
+    * [មេរៀនទី ១\. វុិចទ័រនិងប្រមាណវិធីលើវុិចទ័រ](#មេរៀនទី១-វុិចទ័រនិងប្រមាណវិធីលើវុិចទ័រ)
+    * [មេរៀនទី ២\. ការអនុវត្តនៃវុិចទ័រ](#មេរៀនទ២-ការអនុវត្តន៍លើវ៉ិចទ័រ)
+* [x] [ជំពូកទី ១០ \. បំលែងរូបក្នុងប្លង់](#ជំពូកទី-១០-បំលែងរូបក្នុងប្លង់) 
+    * [មេរៀនទី ១\. បំលែងកិល](#មេរៀនទី១-បំលែងកិល)
+    * [មេរៀនទី ២\. បំលែងឆ្លុះ](#មេរៀនទី៣-បំលែងឆ្លុះ)
+    * [មេរៀនទី ៣\. បំលែងវិល](#មេរៀនទី២-បំលែងវិល)
+    * [មេរៀនទី ៤\. បំលែងចាំង](#មេរៀនទី៤-បំលែងចាំង)
+* [x] [ជំពូកទី ១១ \. ធរណីមាត្រក្នុងលំហ](#ជំពូកទី-១១-ធរណីមាត្រក្នុងលំហ) 
+    * [មេរៀនទី ១\. រូបធរណីមាត្រក្នុងលំហ](#មេរៀនទី១-រូបធរណីមាត្រក្នុងលំហ)
+    * [មេរៀនទី ២\. បន្ទាត់និងប្លង់ស្របក្នុងលំហ](#មេរៀនទី២-បន្ទាត់និងប្លង់ស្របក្នុងលំហ)
+    * [មេរៀនទី ៣\. ភាពអរតូកូណាល់ក្នុងលំហ](#មេរៀនទី៣​-ភាពអរតូកូណាល់ក្នុងលំហ)          
 * [x] [សៀវភៅអេឡិចត្រូនិច 📚](#សៀវភៅអេឡិចត្រូនិច)
     * [សៀវភៅសម្រាប់ត្រៀមប្រលង]()
     * [វិញ្ញាសាត្រៀមប្រលង]()
@@ -188,13 +188,18 @@
 **Topics Covered:** `1.ចំនួនកុំផ្លិច` `2.សមីការដឺក្រេទី២ មានមួយអញ្ញាត` `3.រូបមន្តសមីការដឺក្រេទី២` `4.ទំនាក់ទំនងរវាងឬស និងមេគុណ` `5.ចំណោទសមីការដឺក្រេទី១មាន១អញ្ញាត` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 ១ ចំនួនកុំផ្លិច](https://www.youtube.com/watch?v=5skn3oq6EqM)
- 	* [🎬 ១ ចំនួនកុំផ្លិច(ត)](https://www.youtube.com/watch?v=EwlRgGdFUkw&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=2)
-	* [🎬 ១ ចំនួនកុំផ្លិច(ត)](https://www.youtube.com/watch?v=kLc0ReuIx54&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=3)
-	* [🎬 ១ ចំនួនកុំផ្លិច(តចប់)](https://www.youtube.com/watch?v=9Uu1B6xilA4&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=4)
-	* [🎬 ២ សមីការដឺក្រេទី២ មានមួយអញ្ញាត](https://www.youtube.com/watch?v=N5xhqstn_t0&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=5)
-	* [🎬 ២ សមីការដឺក្រេទី២ មានមួយអញ្ញាត(ត)](https://www.youtube.com/watch?v=ThUUkAIfEc0&list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK&index=6)
-	* [🎬 សមីការដឺក្រេទី២មានមួយអញ្ញាត](https://www.youtube.com/playlist?list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK)
+	* [🎬 ចំនួនកំផ្លិច ( ភាគ១ )](https://www.youtube.com/watch?v=pPVVA6eXJ8s&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=28)
+ 	* [🎬 ចំនួនកំផ្លិច ( ភាគ២ )](https://www.youtube.com/watch?v=mZfG_cTeElc&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=29)
+	* [🎬 ចំនួនកំផ្លិច ( ភាគ៣ )](https://www.youtube.com/watch?v=3gE-eL66xeo&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=30)
+	* [🎬 សមីការដឺក្រេទី២មានមួយអញ្ញាត ( ភាគ១ )](https://www.youtube.com/watch?v=OqM6Wt4MJkY&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=31)
+	* [🎬 សមីការដឺក្រេទី២មានមួយអញ្ញាត ( ភាគ២ )](https://www.youtube.com/watch?v=CbqYseU3M48&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=32)
+	* [🎬 សមីការដឺក្រេទី២មានមួយអញ្ញាត ( ភាគ៣ )](https://www.youtube.com/watch?v=dVC9m98s5DE&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=33)
+	* [🎬 រូបមន្តសមីការដឺក្រេទី២ ( ភាគ១ )](https://www.youtube.com/watch?v=b_FaXeNv8aQ&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=34)
+	* [🎬 រូបមន្តសមីការដឺក្រេទី២ ( ភាគ២ )](https://www.youtube.com/watch?v=IZJdR4Tl1Ns&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=35)
+	* [🎬 ទំនាក់ទំនងរវាងឬស និងមេគុណ ( ភាគ១ )](https://www.youtube.com/watch?v=7CsLtubyDKY&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=36)
+	* [🎬 ទំនាក់ទំនងរវាងឬស និងមេគុណ ( ភាគ២ )](https://www.youtube.com/watch?v=rjv3_3Fpbpc&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=37)
+	* [🎬 អនុវត្តសមីការដឺក្រេទី២មានមួយអញ្ញាត](https://www.youtube.com/watch?v=vW7vGGTAxp0&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=38)
+	* [🎬 សមីការដឺក្រេទី២មានមួយអញ្ញាត (Video Playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUUEuRKnZB1Yu9emDcIiBfK)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1_8_OInX_vo0vCxS67XfB2PjlA9HyMklx/view?usp=sharing)
 	* [📚 ឯកសាររៀបរាងដោយលោក​​ លី ចាន់វិច្ឆរ៉ូ](https://drive.google.com/file/d/10JKSWuQjNEo8H_iYr4VCjvNpO8ImUMT9/view?usp=sharing)
@@ -210,6 +215,12 @@
 **Topics Covered:** `1.ប្រព័ន្ធសមីការដឺក្រេទី១មាន៣អញ្ញាត` `2.ប្រព័ន្ធសមីការដឺក្រេទី១និងសមីការដឺក្រេទី២` `3.សមីការដឺក្រេលំដាប់ខ្ពស់ងាយ` `4.ទ្រឹស្តីបទសំណល់ និង ផលគុណកត្តា` `5.ដោះស្រាយសមីការ ដោយប្រើទ្រឹស្តីបទកត្តា` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 ប្រព័ន្ទសមីការដឺក្រេទី១មានបីអញ្ញាត](https://www.youtube.com/watch?v=PBb2-rauSXc&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=39)
+	* [🎬 ប្រព័ន្ទសមីការដឺក្រេទី១ និងសមីការដឺក្រេទី២](https://www.youtube.com/watch?v=wbydDxE5u8I&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=40)
+	* [🎬 សមីការដឺក្រេលំដាប់ខ្ពស់ងាយ](https://www.youtube.com/watch?v=9ORoaDK4wWQ&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=41)
+	* [🎬 ទ្រឹស្តីបទសំណល់ និងទ្រឹស្តីបទផលគុណកត្តា](https://www.youtube.com/watch?v=Vu7-IUPNwTc&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=42)
+	* [🎬 ដោះស្រាយសមីការដឺក្រេខ្ពស់ដោយប្រើទ្រឹស្តីបទកត្តា](https://www.youtube.com/watch?v=5aAu_QRaHOY&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=43)
+	* [🎬 អនុវត្តន៍លំហាត់](https://www.youtube.com/watch?v=zxlOwtHM2ZU&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=44)
 	* [🎬 ប្រព៏ន្ធសមីការ​ (Video Playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfU-S6c2_Qkw_kjvJeCvND0z)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1_8_OInX_vo0vCxS67XfB2PjlA9HyMklx/view?usp=sharing)
@@ -227,6 +238,13 @@
 **Topics Covered:** `1.វិសមភាព` `2.វិសមីការដឺក្រេទី១ មាន១អញ្ញាត` `3.ប្រព័ន្ធវិសមីការដឺក្រេទី១ មាន១ អញ្ញាត` `4.វិសមីការដឺក្រេទី២ មាន១អញ្ញាត` `5.ការបង្ហាញវិសមភាព` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 វិសមីការដឺក្រេទី១ មានមួយអញ្ញាត ( ភាគ១ )](https://www.youtube.com/watch?v=u3KjqKtBQDw&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=45)
+	* [🎬 វិសមីការដឺក្រេទី១ មានមួយអញ្ញាត ( ភាគ២ )](https://www.youtube.com/watch?v=W_819LaWp34&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=46)
+	* [🎬 ប្រព័ន្ទវិសមីការដឺក្រេទី១មានមួយអញ្ញាត](https://www.youtube.com/watch?v=0VR6vxeckUE&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=47)
+	* [🎬 វិសមីការដឺក្រេទី២មានមួយអញ្ញាត ( ភាគ១ )](https://www.youtube.com/watch?v=7Ihwo3nvRF0&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=48)
+	* [🎬 វិសមីការដឺក្រេទី២មានមួយអញ្ញាត ( ភាគ២ )](https://www.youtube.com/watch?v=4tEV6NMfW8s&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=49)
+	* [🎬 វិសមីការដឺក្រេទី២មានមួយអញ្ញាត ( ភាគ៣ )](https://www.youtube.com/watch?v=pTXwGlJt390&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=50)
+	* [🎬 ការបង្ហាញវិសមភាព](https://www.youtube.com/watch?v=aF-y8Hy4smc&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=51)
 	* [🎬 វិសមីការ (Video playlist) ](https://www.youtube.com/playlist?list=PLHIDhoWPChfW742jUT5MEsfyq3UdV1fba)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1_8_OInX_vo0vCxS67XfB2PjlA9HyMklx/view?usp=sharing)
@@ -250,6 +268,9 @@
 **Topics Covered:** `1.កូអរដោនេនៃចំណុចនៅលើបន្ទាត់` `2.កូអរដោនេនៃចំណុចក្នុងប្លង់` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 កូអរដោនេនៃចំណុចនៅលើបន្ទាត់ ( ភាគ១ )](https://www.youtube.com/watch?v=X39ZUMSeGKc&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=52)
+	* [🎬 កូអរដោនេនៃចំណុចនៅលើបន្ទាត់ ( ភាគ២ )](https://www.youtube.com/watch?v=Slqpx-57b1A&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=53)
+	* [🎬 កូអរដោនេនៃចំណុចនៅក្នុងប្លង់](https://www.youtube.com/watch?v=x8hQ2UyLXWs&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=54)
 	* [🎬 កូរអដោនេនៃចំណុចនៅលើប្លង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfUJzaaWKJT_MBjvGpbnH-1Z)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
@@ -267,6 +288,11 @@
 **Topics Covered:** `1.និយមន័យ` `2.ចម្ងាយពីចំណុច និងបន្ទាត់` `3.ការប្រើកូអរដោនេ ដើម្បីបង្ហាញលក្ខណៈរូប` `4.សមីការសំណុំចំណុច` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 និយមន័យ ( ភាគ១ )](https://www.youtube.com/watch?v=UDQWAaQwwaU&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=55)
+	* [🎬 និយមន័យ ( ភាគ២ )](https://www.youtube.com/watch?v=SLM1YQLLJ6s&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=56)
+	* [🎬 ចម្ងាយរវាងចំណុចទៅបន្ទាត់](https://www.youtube.com/watch?v=jX2G7N9jYkI&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=57)
+	* [🎬 ការប្រើកូអរដោនេ ដើម្បីបង្ហាញលក្ខណៈរូប](https://www.youtube.com/watch?v=D50Ciq800Vs&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=58)
+	* [🎬 សមីការនៃសំណុំចំណុច](https://www.youtube.com/watch?v=XySkJkeJmxw&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=59)
 	* [🎬 សមីការបន្ទាត់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfWWaF_pRJxW9S9Vjtcz35aA)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
@@ -284,7 +310,9 @@
 **Topics Covered:** `1.សមីការង្វង់` `2.រង្វង់ និងបន្ទាត់` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 សមីការរង្វង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVwcRvTElYhSFODSmv953Xp)
+	* [🎬 សមីការរង្វង់](https://www.youtube.com/watch?v=BrauRjRT618&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=60)
+	* [🎬 រង្វង់ និងបន្ទាត់](https://www.youtube.com/watch?v=pFk9AuMa6kU&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=61)
+  	* [🎬 សមីការរង្វង់ (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVwcRvTElYhSFODSmv953Xp)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
@@ -301,7 +329,8 @@
 **Topics Covered:** `1.ដំណោះស្រាយវិសមីការតាមក្រាប` `2.ដំណោះស្រាយប្រព័ន្ធវិសមីការតាមក្រាប` `ធ្វើលំហាត់` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
-	* [🎬 ដោះស្រាយវិសមីការតាមក្រាប (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVX_nAAXRJFU2hBH3WOAR5g)
+	* [🎬 ដំណោះស្រាយវិសមីការតាមក្រាប](https://www.youtube.com/watch?v=GdCBCAZTMDg&list=PLwVtQ30xR9AApRv5BJrJ_mcC0oSDgtj44&index=62)
+  	* [🎬 ដោះស្រាយវិសមីការតាមក្រាប (Video playlist)](https://www.youtube.com/playlist?list=PLHIDhoWPChfVX_nAAXRJFU2hBH3WOAR5g)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/1AqNZQjqeXpnJ1-8aCcHeyKwHQ7bBer-2/view?usp=sharing)
