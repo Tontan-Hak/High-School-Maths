@@ -603,8 +603,9 @@
 - **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=V5TC-XSadVI) && [ភាគទី ០២](https://www.youtube.com/watch?v=v1j3tnIEMuE) 
 - **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=V1Xh702GM_g) && [ភាគទី ០២](https://www.youtube.com/watch?v=PcCCWbxExd8) 
 - **វីឌីអូ Playlist** 
-   * [អត្រាកំណែវិញ្ញាសាថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
-   * [ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
+   * [🎬 អត្រាកំណែវិញ្ញាសាថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
+   * [🎬 វិញ្ញាសា គណិតវិទ្យា](https://www.youtube.com/playlist?list=PLwVtQ30xR9ACCOmIYTUmOWSBZg9O8o1LB)
+   * [🎬 ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
 ##
 <div align="right">
 	
