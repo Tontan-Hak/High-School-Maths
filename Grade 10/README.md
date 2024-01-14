@@ -417,7 +417,6 @@
 	* [🎬 ការអនុវត្តផលធៀបត្រីកោណមាត្រ(ភាគ២)](https://www.youtube.com/watch?v=ggdI_v-408M)
 	* [🎬 ការអនុវត្តផលធៀបត្រីកោណមាត្រ(ភាគ៣)](https://www.youtube.com/watch?v=FRqWcjDCaXE)
 	* [🎬 ​ការអនុវត្តផលធៀបត្រីកោណមាត្រ(ភាគបញ្ចប់)](https://www.youtube.com/watch?v=JEzDEEiOPs0)
-	* [🎬  (Video playlist)]()
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
@@ -446,7 +445,6 @@
 	* [🎬 ២.តារាងបំណែងចែកប្រេកង់នៃទិន្ន័យមិនផ្តុំជាថ្នាក់ និងការតាងក្រាប](https://www.youtube.com/watch?v=eq-DzTzVfXg)
 	* [🎬 ៣.តារាងបំណែងចែកប្រេកង់នៃទិន្ន័យដែលផ្តុំជាថ្នាក់ និងការតាងក្រាប](https://www.youtube.com/watch?v=AWODC4PzsQc)
 	* [🎬 ​៤.បំណែងចែកប្រេកង់កើនប្រេកង់ថយ](https://www.youtube.com/watch?v=w-ibermXGYE)
-	* [🎬  (Video playlist)]()
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
@@ -466,7 +464,6 @@
 	* [🎬 1.មធ្យម](https://www.youtube.com/watch?v=ESJ-M0U2Sy4)
 	* [🎬 2.មេដ្យាន](https://www.youtube.com/watch?v=wTYsuI8W5DM)
 	* [🎬 3.ម៉ូត](https://www.youtube.com/watch?v=EtJxJnjkUek)
-	* [🎬  (Video playlist)]()
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
@@ -494,7 +491,8 @@
 	* [🎬 ចម្លាស់](https://www.youtube.com/watch?v=C3jbF03qP4o)
 	* [🎬 ចម្លាស់ច្រំដែល](https://www.youtube.com/watch?v=1i91ZxlbOEE)
 	* [🎬 ​ចម្លាស់វង់](https://www.youtube.com/watch?v=dQvDVKjgmuA)
-	* [🎬  ចម្លាស់ (តចប់)](https://www.youtube.com/watch?v=cS-rUQnskoo&list=PLDt349AvcEaKGRQxP8JRIFSRScbIl-KV6&index=20)
+	* [🎬 ចម្លាស់ (តចប់)](https://www.youtube.com/watch?v=cS-rUQnskoo&list=PLDt349AvcEaKGRQxP8JRIFSRScbIl-KV6&index=20)
+	* [🎬 Permutation | ចម្លាស់](https://www.youtube.com/watch?v=Qd_ZlPQ-9cM)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
@@ -513,7 +511,8 @@
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
 	* [🎬 បន្សំ](https://www.youtube.com/watch?v=7Kb93Al3MAI&t=1s)
 	* [🎬 បន្សំ(តចប់)](https://www.youtube.com/watch?v=6FUzban7WOQ&t=1s)
-	* [🎬  (Video playlist)]()
+	* [🎬 Combinations | បន្សំ](https://www.youtube.com/watch?v=UoUlMpX_hgc)
+	* [🎬 Probability | ប្រូបាប](https://www.youtube.com/watch?v=7ki5unwBLyA&t=7s)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
@@ -565,6 +564,85 @@
 	* [🎬 ការអនុវត្តន៍នៃវ៉ិចទ័រ(ភាគ៣](https://www.youtube.com/watch?v=A99_DRJ3Whs&list=PLJaM0qi-Pbjthbc7QgKolX_oHo5sncUEp&index=28&t=1s)
 	* [🎬 ​]()
 	* [🎬  (Video playlist)]()
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥]()
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+---------
+# ជំពូកទី ១០ បំលែងរូបក្នុងប្លង់
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [What is a ?]() && []()<br>
+✅ []()&[]() <br>
+✅ []()&[]() <br>
+## មេរៀនទី១ បំលែងកិល
+**Topics Covered:** `1.បំលែងកិលចំណុច` `2.បំលែងកិលរូបធៀបនឹងបន្ទាត់` `3.បំណកស្រាយបំបំលែងកិលក្នុងតម្រុយកូអរដោនេ` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 បំលែងកិល (ភាគ១)](https://www.youtube.com/watch?v=QdNekwJzHkY&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=29)
+	* [🎬 បំលែងកិល(ភាគ២)](https://www.youtube.com/watch?v=3c3zdUTOv2k&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=29)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥]()
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី២ បំលែងវិល
+**Topics Covered:** `1.បំលែងវិលនៃចំណុច` `2.បំលែងវិលរូប` `3.បំណកស្រាយបំលែងវិលក្នុងតម្រុយអរដោនេ` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 បំលែងវិល (ភាគ១)](https://www.youtube.com/watch?v=GVke0wTa3hg&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=30)
+	* [🎬 បំលែងវិល (ភាគ២)](https://www.youtube.com/watch?v=uC0Rr_sPjlo&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=31)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥]()
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី៣ បំលែងឆ្លុះ
+**Topics Covered:** `1.បំលែងឆ្លុះនៃចំណុច` `2.បំលែងឆ្លុះនៃរូបធៀបនឹងបន្ទាត់` `3.បំណកស្រាយបំលែងឆ្លុះក្នុងតម្រុយអរដោនេ` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 បំលែងឆ្លុះ (ភាគ១)](https://www.youtube.com/watch?v=iSdwdA390X0&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=32)
+	* [🎬 បំលែងឆ្លុះ (ភាគ២)](https://www.youtube.com/watch?v=8FjxfHNUowE&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=33)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥]()
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី៤ បំលែងចាំង
+**Topics Covered:** `1.បំលែងវិលនៃចំណុច` `2.បំលែងវិលរូប` `3.បំណកស្រាយបំលែងវិលក្នុងតម្រុយអរដោនេ` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 បំលែងចាំង (ភាគ១)](https://www.youtube.com/watch?v=XsWipI9aC30&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=34)
+	* [🎬 បំលែងចាំង (ភាគ២)](https://www.youtube.com/watch?v=vD59Ea9G9h4&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=35)
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
