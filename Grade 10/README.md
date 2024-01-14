@@ -1,7 +1,7 @@
 # 🎓 Grade 10 Math Learning resources
 ![](https://komarev.com/ghpvc/?username=High-School-Maths&color=brightgreen&label=VISITORS)
 ## Content summary
-### [Learning How To Learn](#Learning-How-To-Learn)
+- [Learning How To Learn](#Learning-How-To-Learn)
 * [x] [ជំពូកទី ០\. រំលឹកមេរៀន](#ជំពូកទី-០-រំលឹកមេរៀន)
     * [តម្រូវការជាមុន](#ជំពូកទី-០-រំលឹកមេរៀន)
 * [x] [ជំពូកទី ០១ \. តក្កវិទ្យា សំណុំនិងចំនួន](#មេរៀនទី-១-តក្កវិទ្យា)
