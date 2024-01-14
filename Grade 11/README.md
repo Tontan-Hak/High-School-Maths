@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=High-School-Maths&color=brightgreen&label=VISITORS)
 
 ## Content summary
-### [Learning How To Learn](#Learning-How-To-Learn)
+* [ ] [Learning How To Learn](#Learning-How-To-Learn)
 * [x] [ជំពូកទី ០\. រំលឹកមេរៀន](#ជំពូកទី-០-រំលឹកមេរៀន)
     * [តម្រូវការជាមុន](#ជំពូកទី-០-រំលឹកមេរៀន)
 * [x] [ជំពូកទី ០១ \. ស្វីត](#ជំពូក-០១-ស្វុីត)
