@@ -883,7 +883,7 @@
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [GeoGebra](https://www.geogebra.org/u/tontanhak97)
 - [Duraseksa](https://www.duraseksa.com/home)
-- [E-Learning MoEYS](https://elearning.moeys.gov.kh/?redirect=0)
+- [EBC - Educational Broadcasting Cambodia](https://ebc.edu.kh/)
 ## រូបមន្តសង្ខេប-PDF
 * [រូបមន្ត](https://drive.google.com/file/d/1BTGggIMyXp3a_OHj6_P529R4qOsIq_KH/view?usp=sharing)
 ## វិញ្ញាសារត្រៀម (optional)
