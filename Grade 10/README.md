@@ -607,3 +607,19 @@
 * [3 tips on how to study effectively](https://www.youtube.com/watch?v=TjPFZaMe2yw)
 * [Awesome-math](https://github.com/Tontan-Hak/awesome-math)
 ------
+## សេចក្តីថ្លែងអំណរគុណ
+Thanks to all the contributors who shared resources in building this repo.
+
+-----
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+<a href="https://github.com/Tontan-Hak/High-School-Maths/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/High-School-Maths" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/High-School-Maths" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/High-School-Maths" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/High-School-Maths" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/High-School-Maths?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/High-School-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/High-School-Maths?color=2b9348" alt="License Badge"/></a>
+
+--- 
