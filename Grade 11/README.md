@@ -265,6 +265,9 @@
 </div>
 
 -----
+# វិឌីអូមេរៀនទាំងអស់
+- [🎬 G11: គណិតវិទ្យាកម្រិតមូលដ្ឋាន _ Basic Mathematics](https://www.youtube.com/playlist?list=PLwVtQ30xR9ACyhhxSSpedBbBeoVrMo3fW)
+- [🎬 G11: គណិតវិទ្យាកម្រិតខ្ពស់ _ Advanced Mathematics](https://www.youtube.com/playlist?list=PLwVtQ30xR9ABECByRdQr5JiOMJDKnil0W)
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
    - [x] [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
