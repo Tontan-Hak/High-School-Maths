@@ -42,7 +42,7 @@
     * [មេរៀនទី ៣\. បំលែងវិល](#)
     * [មេរៀនទី ៤\. បំលែងចាំង](#)
 * [x] [ជំពូកទី ១១ \. ធរណីមាត្រក្នុងលំហ](#) 
-    * [មេរៀនទី ១\. រូបមន្តធរណីមាត្រក្នុងលំហ](#)
+    * [មេរៀនទី ១\. រូបធរណីមាត្រក្នុងលំហ](#)
     * [មេរៀនទី ២\. បន្ទាត់និងប្លង់ស្របក្នុងលំហ](#)
     * [មេរៀនទី ៣\. ភាពអរតូកូណាល់ក្នុងលំហ](#)          
 * [x] [សៀវភៅអេឡិចត្រូនិច 📚](#សៀវភៅអេឡិចត្រូនិច)
@@ -562,8 +562,6 @@
 	* [🎬 ការអនុវត្តន៍នៃវ៉ិចទ័រ (ភាគ១)](https://www.youtube.com/watch?v=zBovXySc7-U&list=PLJaM0qi-Pbjthbc7QgKolX_oHo5sncUEp&index=24)
 	* [🎬 ការអនុវត្តន៍នៃវ៉ិចទ័រ(ភាគ២)](https://www.youtube.com/watch?v=FtJCWArkJBg&list=PLJaM0qi-Pbjthbc7QgKolX_oHo5sncUEp&index=26)
 	* [🎬 ការអនុវត្តន៍នៃវ៉ិចទ័រ(ភាគ៣](https://www.youtube.com/watch?v=A99_DRJ3Whs&list=PLJaM0qi-Pbjthbc7QgKolX_oHo5sncUEp&index=28&t=1s)
-	* [🎬 ​]()
-	* [🎬  (Video playlist)]()
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
@@ -655,6 +653,75 @@
 	
 </div>
 
+---------
+# ជំពូកទី ១១ ធរណីមាត្រក្នុងលំហ
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [What is a ?]() && []()<br>
+✅ []()&[]() <br>
+✅ []()&[]() <br>
+## មេរៀនទី១ រូបធរណីមាត្រក្នុងលំហ
+**Topics Covered:** `1.ការគូសរូបក្នុងលំហនៅលើប្លង់` `2.លក្ខណៈគ្រឹះ` `3.ទីតាំងរវាងបន្ទាត់ និងប្លង់` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 ​រូបធរណីមាត្រក្នុងលំហ (ភាគ១)](https://www.youtube.com/watch?v=pCCWyp3atHs&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=36)
+	* [🎬 ​រូបធរណីមាត្រក្នុងលំហ (ភាគ២)](https://www.youtube.com/watch?v=YB6n64EBEQk&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=37)
+	* [🎬 ​រូបធរណីមាត្រក្នុងលំហ (ភាគ៣)](https://www.youtube.com/watch?v=p0Snchzfy4s&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=50)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥]()
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី២ បន្ទាត់និងប្លង់ស្របក្នុងលំហ
+**Topics Covered:** `1.បន្ទាប់ស្របគ្នា` `2.បន្ទាត់ស្របនឹងប្លង់ `3.ប្លង់ស្របគ្នា` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 បន្ទាត់ស្របនឹងប្លង់ (ភាគ១)](https://www.youtube.com/watch?v=fVMHF5teLek&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=38)
+	* [🎬 បន្ទាត់ស្របនឹងប្លង់ (ភាគ២)](https://www.youtube.com/watch?v=-l-anGMwfto&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=39)
+	* [🎬 បន្ទាត់ស្របនឹងប្លង់ (ភាគ៣](https://www.youtube.com/watch?v=U5ZQzQ4bQvI&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=40)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥]()
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី៣​ ភាពអរតូកូណាល់ក្នុងលំហ
+**Topics Covered:** `1.រំលឹករូបមន្តផ្ទៃក្រទ្បានិងមាឌនៃសូលីតខ្លះៗ` `2.បន្ទាត់អរតូកូណាល់` `3.ប្លង់មេដ្យាទ័រ ប្លង់កែង​` `4.ប្លង់មេដ្យាទ័រ` `5.ប្លង់កែង` `6.ចំណោលកែង` `ធ្វើលំហាត់` <br>
+**Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `ពន្លាតកន្សោម`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន៖
+	* [🎬 រំលឹករូបមន្តផ្ទៃក្រទ្បានិងមាឌនៃសូលីតខ្លះៗ](https://www.youtube.com/watch?v=g_S0_k0F5mk&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=41)
+	* [🎬 បន្ទាត់អរតូកូណាល់](https://www.youtube.com/watch?v=KZ5RYiZQH5M&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=42)
+	* [🎬 បន្ទាត់កែងនិងប្លង់ ( ភាគ១ )](https://www.youtube.com/watch?v=jreKy7wLNtA&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=43)
+	* [🎬 ​បន្ទាត់កែងនិងប្លង់ ( ភាគ២ )](https://www.youtube.com/watch?v=qdj0FLSz4e8&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=44)
+	* [🎬 ​បន្ទាត់កែងនិងប្លង់ ( ភាគ៣ )](https://www.youtube.com/watch?v=MicxHuXdzcA&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=45)
+	* [🎬 ប្លង់មេដ្យាទ័រ ប្លង់កែង​](https://www.youtube.com/watch?v=puQ7BXJA6lI&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=46)
+	* [🎬 ​ចំណោលកែង](https://www.youtube.com/watch?v=Fk8w9qh2nUM&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=47)
+	* [🎬 លំហាត់ទី១](https://www.youtube.com/watch?v=PHsY4P-ypMw&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=48)
+	* [🎬 លំហាត់ទី២](https://www.youtube.com/watch?v=ZCwx1cVG7-I&list=PLwVtQ30xR9AC2Wm0OaXaMMXNqR4kh_B23&index=49)
+
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+	* [📚 ដំណោះស្រាយលំហាត់]()
+	* [📚 ឯកសាររៀបររៀងដោយគរុនិសិ្សតជំនន់ទី១៥]()
+	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 ---------
 # សៀវភៅអេឡិចត្រូនិច
 ## ស្រាវជ្រាវបន្ថែម
