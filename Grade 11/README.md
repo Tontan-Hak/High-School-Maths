@@ -331,15 +331,15 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 # ជំពូកទី ០៦ លីមីតនិងដេរីវេ
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
- 
 ✅ [ What is Complex Number?]() && []()<br>
 ✅ [ ]() <br>
 ✅ [ ]() <br>
 ## មេរៀនទី០១ លីមីតនិងដេរីវេ
-**Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
+**Topics Covered:** `1.លីមីត` `1.1. សញ្ញាណលីមីត` `1.2.ប្រមាណវិធីលើលីមីត` `1.3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `1.4.លីមីតអនន្តនៃអនុគមន៍` `2.ដេរីវេ` `2.1. អាត្រាបម្រែបម្រួលមធ្យម` `2.2.ដេរីវេត្រង់មួយចំណុច` `2.3. រូបមន្តដេរីវេ` `2.4.ដេរីវេទី n` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 លីមីតនិងដេរីវេ (ភាគ១)](https://www.youtube.com/watch?v=ilxe2PKT7mw&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=23)
@@ -352,6 +352,54 @@
     * [🎬 លីមីតនិងដេរីវេ (ភាគ៨)](https://www.youtube.com/watch?v=Mfl1anFNapE&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=25)
     * [🎬 លីមីតនិងដេរីវេ (ភាគ៩)](https://www.youtube.com/watch?v=iO78ha_G2BM&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=26)
     * [🎬 លីមីតនិងដេរីវេ (ភាគ១០)](https://www.youtube.com/watch?v=SrCO4xePE0s&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=32)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី០២ អនុវត្តន៍ដេរីវេ
+**Topics Covered:** `1.បន្ទាត់ប៉ះនិងក្រាបតាមអនុគមន៏` `2.ទិសដៅអថេរភាពនៃអនុគមន៏` `3.អតិបរមាធៀបនិងអប្បរមាធៀបនៃអនុគមន៏` `4.របៀបស្រាយអនុគមន៏មានអតិបរមាធៀប និងអប្បរមាធៀប` `5.ចំនុចរបត់នៃខ្សែកោង` `អនុវត្តន៍លំហាត់` <br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ១)](https://www.youtube.com/watch?v=VX5IpHUAASk&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=33)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ២)](https://www.youtube.com/watch?v=jTK-LLkTjkg&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=34)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ៣)](https://www.youtube.com/watch?v=gFB9rYZLr7E&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=35)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ៤)](https://www.youtube.com/watch?v=LOuY8D6bQ80&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=37)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ៥)](https://www.youtube.com/watch?v=Y6TF8PM9hRI&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=38)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ៦)](https://www.youtube.com/watch?v=AQykfQWltrQ&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=39)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ៧)](https://www.youtube.com/watch?v=HNb_A1EAL2M&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=40)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ៨)](https://www.youtube.com/watch?v=qZJAE7SB0GU&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=41)
+    * [🎬 អនុវត្តន៍ដេរីវេ (ភាគ៩)](https://www.youtube.com/watch?v=jH7tHNh3jeU&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=42)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី០៣ អថេរភាព និងក្រាបនៃអនុគមន៍
+**Topics Covered:** `1.អនុគមន៍ពហុធាដឺក្រេទី៣` `2.អនុគមន៍ប៊ីការេ` `3.អនុគមន៍ប្រភាគសនិទាន` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (ភាគ១)](https://www.youtube.com/watch?v=lVnr14VsAgo&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=48)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (ភាគ២)](https://www.youtube.com/watch?v=iN910fO6b4o&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=43)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (ភាគ៣)](https://www.youtube.com/watch?v=AUDwQwiKhz4&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=44)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (ភាគ៤)](https://www.youtube.com/watch?v=2EMtyRzkbYo&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=45)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (ភាគ៥)](https://www.youtube.com/watch?v=CsHYEaXh-Rk&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=46)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (ភាគ៦)](https://www.youtube.com/watch?v=P0t4EbSLkoc&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=47)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (ភាគ៧)](https://www.youtube.com/watch?v=FN5B9H3qx4o&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=50)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍ (លំហាត់)​​ (ភាគ៨)](https://www.youtube.com/watch?v=vJG9LzbH9JI&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=49)
+    * [🎬 អថេរភាព និងក្រាបនៃអនុគមន៍​ (លំហាត់)​​ (ភាគ៩)](https://www.youtube.com/watch?v=P3SrJ2p5hlw&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=51)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
@@ -420,6 +468,38 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+-----
+# ជំពូកទី ០
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ What is Complex Number?]() && []()<br>
+✅ [ ]() <br>
+✅ [ ]() <br>
+## មេរៀនទី០
+**Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬  (ភាគ១)]()
+    * [🎬  (ភាគ២)]()
+    * [🎬  (ភាគ៣)]()
+    * [🎬  (ភាគ៤)]()
+    * [🎬  (ភាគ៥)]()
+    * [🎬  (ភាគ៦)]()
+    * [🎬  (ភាគ៧)]()
+    * [🎬  (ភាគ៨)]()
+    * [🎬  (ភាគ៩)]()
+    * [🎬  (ភាគ១០)]()
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
 ##
 <div align="right">
 	
