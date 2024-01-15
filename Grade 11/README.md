@@ -263,7 +263,7 @@
 ✅ [ ]() <br>
 ✅ [ ]() <br>
 ## មេរៀនទី០១ អនុគមន៏ត្រីកោណមាត្រ
-**Topics Covered:** `1.រង្វាស់មុំ` `2.អនុគមន៏ត្រីកោណមាត្រ` `ស្វ័យ` `អនុវត្ត`
+**Topics Covered:** `1.រង្វាស់មុំ` `2.អនុគមន៏ត្រីកោណមាត្រ` `3.លក្ខណ:នៃអនុគមន៏ត្រីកោណមាត្រ` `4.សិក្សាអនុគមន៏ត្រីកោណមាត្រ`  `អនុវត្តន៍លំហាត់`
 <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -289,20 +289,17 @@
 </div>
 
 ## មេរៀនទី០២ រូបមន្តអនុគមន៍ត្រីកោណមាត្រ
-**Topics Covered:** `1.រង្វាស់មុំ` `2.អនុគមន៏ត្រីកោណមាត្រ` `ស្វ័យ` `អនុវត្ត`
+**Topics Covered:** `1.រូបមន្តផលបូកនិងផលដក` `2.អនុវត្តន៏រូបមន្តផលបូកនិងផលដក` `3.រូបមន្តបំលែង` `អនុវត្តន៍លំហាត់`
 <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ១)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ២)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៣)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៤)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៥)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៦)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៧)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៨)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៩)]()
-    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ១០)]()
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ១)](https://www.youtube.com/watch?v=bJ6oWiq3SJ8&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=10)
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ២)](https://www.youtube.com/watch?v=5mAt2WIFck8&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=11)
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៣)](https://www.youtube.com/watch?v=1R9y-wtE0qM&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=12)
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៤)](https://www.youtube.com/watch?v=z-zwwZZLMQY&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=13)
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៥)](https://www.youtube.com/watch?v=VAwZxjrKJts&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=20)
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ (ភាគ៦)](https://www.youtube.com/watch?v=xidsY8l82Oo&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=14)
+    * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ​ (លំហាត់) (ភាគ៧)](https://www.youtube.com/watch?v=YTDG3s2D0-s&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=15)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
@@ -314,6 +311,26 @@
 	
 </div>
 
+## មេរៀនទី០៣ សមីការនិងវិសមីការអនុគមន៍ត្រីកោណមាត្រ
+**Topics Covered:** `1.ចំនួនដែលមានកូស៊ីនុសដូចគ្នា` `2.ចំនួនដែលមានស៊ីនុសដូចគ្ន` `3.សមីការត្រីកោណមាត្រ` `4.វិសមីការត្រីកោណមាត្រ` `អនុវត្តន៍លំហាត់`
+<br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 សមីការនិងវិសមីការអនុគមន៍ត្រីកោណមាត្រ (ភាគ១)](https://www.youtube.com/watch?v=-M4_yK21am8&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=16)
+    * [🎬 សមីការនិងវិសមីការអនុគមន៍ត្រីកោណមាត្រ (ភាគ២)](https://www.youtube.com/watch?v=5akbciYfnYQ&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=17)
+    * [🎬 សមីការនិងវិសមីការអនុគមន៍ត្រីកោណមាត្រ (ភាគ៣)](https://www.youtube.com/watch?v=6pPZPrOFZgo&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=18)
+    * [🎬 សមីការនិងវិសមីការអនុគមន៍ត្រីកោណមាត្រ (ភាគ៤)](https://www.youtube.com/watch?v=ehNJDIyoPOM&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=21)
+    * [🎬 សមីការនិងវិសមីការអនុគមន៍ត្រីកោណមាត្រ (ភាគ៥)](https://www.youtube.com/watch?v=jP6pSB7avYg&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=22)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 # ជំពូកទី ០៦ លីមីតនិងដេរីវេ
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
@@ -322,16 +339,19 @@
 ✅ [ ]() <br>
 ✅ [ ]() <br>
 ## មេរៀនទី០១ លីមីតនិងដេរីវេ
-**Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
-<br>
+**Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 (ភាគ១)]()
-    * [🎬 (ភាគ២)]()
-    * [🎬 (ភាគ៣)]()
-    * [🎬 (ភាគ៤)]()
-    * [🎬 (ភាគ៥)]()
-- [🎬 (Vedio playlist)]()
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ១)](https://www.youtube.com/watch?v=ilxe2PKT7mw&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=23)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ២)](https://www.youtube.com/watch?v=mTmmng-wbFc&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=24)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ៣)](https://www.youtube.com/watch?v=Edgh0qVr00Q&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=27)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ៤)](https://www.youtube.com/watch?v=ZJ2AttG4bQc&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=28)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ៥)](https://www.youtube.com/watch?v=GijMiGqEdD4&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=29)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ៦)](https://www.youtube.com/watch?v=15awHWQvemA&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=30)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ៧)](https://www.youtube.com/watch?v=DduE3lQywhQ&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=31)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ៨)](https://www.youtube.com/watch?v=Mfl1anFNapE&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=25)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ៩)](https://www.youtube.com/watch?v=iO78ha_G2BM&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=26)
+    * [🎬 លីមីតនិងដេរីវេ (ភាគ១០)](https://www.youtube.com/watch?v=SrCO4xePE0s&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=32)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
