@@ -295,7 +295,7 @@
 ✅ [ ]() <br>
 ✅ [ ]() <br>
 ## មេរៀនទី១ អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល
-**Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
+**Topics Covered:** `1.ស្វ័យគុណ` `2.រំលឹករូបមន្តនៃស្វ័យគុណ` `3.ឬសទីn` `4.ការគណនាកន្សោមរ៉ាឌីកាល់` `5.អនុវត្តន៍លំហាត់ស្វ័យគុណ និងរ៉ាឌីកាល់` `6.អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល` `7.សមីការនិងវិសមីការអ៊ិចស្យ៉ូណង់ស្យែល` `8.អនុវត្តន៏អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១)](https://www.youtube.com/watch?v=Vay-_X7DD9M&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=5)
@@ -307,8 +307,8 @@
     * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៧)](https://www.youtube.com/watch?v=yluNplwpDy0&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=9)
     * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៨)](https://www.youtube.com/watch?v=eD7A6UaDtNY&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=11)
     * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៩)](https://www.youtube.com/watch?v=CqhRVFC_8HE&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=12)
-    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១០)​​លំហាត់](https://www.youtube.com/watch?v=t-LcdvXo0xU&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=6)
-    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១១)លំហាត់](https://www.youtube.com/watch?v=v30TBX4XNmk&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=7)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១០) ​​លំហាត់](https://www.youtube.com/watch?v=t-LcdvXo0xU&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=6)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១១) លំហាត់](https://www.youtube.com/watch?v=v30TBX4XNmk&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=7)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈលោកគ្រូ ស៊ាម សំណាង](https://drive.google.com/file/d/1rZmnH-VoirNuHRiL-bImCaRd0XJdMiVu/view?usp=sharing)
@@ -321,23 +321,20 @@
 </div>
 
 ## មេរៀនទី២ អនុគមន៏លោការីត
-**Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
+**Topics Covered:** `1.អនុគមន៏ច្រាស` `2.អនុគមន៏លោការីត` `3.សមីការនិងវិសមីការលោការីត` `4.អនុវត្តន៍លើអនុគមន៏លោការីត` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១)]()
-    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ២)]()
-    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៣)]()
-    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៤)]()
-    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៥)]()
-    * [🎬  (ភាគ៦)]()
-    * [🎬  (ភាគ៧)]()
-    * [🎬  (ភាគ៨)]()
-    * [🎬  (ភាគ៩)]()
-    * [🎬  (ភាគ១០)]()
+    * [🎬 អនុគមន៏លោការីត (ភាគ១)](https://www.youtube.com/watch?v=tovPZcD5R0Q&list=PLHIDhoWPChfUBuqMGtVZejcxP3mcNPSi1&index=4)
+    * [🎬 អនុគមន៏លោការីត (ភាគ២)](https://www.youtube.com/watch?v=V_pd3Uaj3fg&list=PLHIDhoWPChfUBuqMGtVZejcxP3mcNPSi1&index=3)
+    * [🎬 អនុគមន៏លោការីត (ភាគ៣)](https://www.youtube.com/watch?v=dHAPh4n9Kg8&list=PLHIDhoWPChfUBuqMGtVZejcxP3mcNPSi1&index=2)
+    * [🎬 អនុគមន៏លោការីត (ភាគ៤)](https://www.youtube.com/watch?v=Pyd6nBXdSi4&list=PLHIDhoWPChfUBuqMGtVZejcxP3mcNPSi1&index=1)
+    * [🎬 អនុគមន៏លោការីត (ភាគ៥) អនុវត្តន៍លំហាត់](https://www.youtube.com/watch?v=pocfTamN_NQ&list=PLHIDhoWPChfUBuqMGtVZejcxP3mcNPSi1&index=6)
+    * [🎬 អនុគមន៏លោការីត (ភាគ៦) អនុវត្តន៍លំហាត់](https://www.youtube.com/watch?v=arxCnC2YV_Q&list=PLHIDhoWPChfUBuqMGtVZejcxP3mcNPSi1&index=7)
+    * [🎬 អនុគមន៏លោការីត (ភាគ៧) អនុវត្តន៍លំហាត់](https://www.youtube.com/watch?v=oQZo3OxsCQs&list=PLHIDhoWPChfUBuqMGtVZejcxP3mcNPSi1&index=8)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈលោកគ្រូ ស៊ាម សំណាង](https://drive.google.com/file/d/1rZmnH-VoirNuHRiL-bImCaRd0XJdMiVu/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1ky9BQqvdMF_FCPyHQwCraN8N6MFXkl-0/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -430,7 +427,32 @@
 ✅ [ ]() <br>
 ✅ [ ]() <br>
 ## មេរៀនទី១ ម៉ាទ្រីស
-**Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
+**Topics Covered:** `1.សញ្ញាណនៃម៉ាទ្រីស` `2.ប្រមាណវិធីលើម៉ាទ្រីស` `3.ម៉ាទ្រីសច្រាសាំ` `អនុវត្តន៍លំហាត់` <br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬  (ភាគ១)]()
+    * [🎬  (ភាគ២)]()
+    * [🎬  (ភាគ៣)]()
+    * [🎬  (ភាគ៤)]()
+    * [🎬  (ភាគ៥)]()
+    * [🎬  (ភាគ៦)]()
+    * [🎬  (ភាគ៧)]()
+    * [🎬  (ភាគ៨)]()
+    * [🎬  (ភាគ៩)]()
+    * [🎬  ម៉ាទ្រីស និងដេទែរមីណង់ បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន (ភាគ១០)](https://www.youtube.com/watch?v=f70Jh4Lwrag)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី២ ដេទែមីណង់
+**Topics Covered:** `1.ដែទែមីណង់លំដាប់2` `2.ដែទែមីណង់លំដាប់3` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬  (ភាគ១)]()
