@@ -246,7 +246,7 @@
     * [🎬 ស្វុីតធរណីមាត្រ (ភាគ៤)](https://www.youtube.com/watch?v=aysvHOlK_U4)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
+    * [📚 ឯកសាររបស់លោកគ្រូ​ ហុីង វុទ្ធី](https://drive.google.com/file/d/1IpmBVMy91EymvF6FcqCVFg3iy3UOxm7h/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុននិងសែន និសិដ្ឋ](https://drive.google.com/file/d/19ck3Gq_5dnMqF2r5IxT9r2Yvva9JkOl4/view?usp=sharing)
 ##
 <div align="right">
@@ -298,11 +298,37 @@
 **Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬  (ភាគ១)]()
-    * [🎬  (ភាគ២)]()
-    * [🎬  (ភាគ៣)]()
-    * [🎬  (ភាគ៤)]()
-    * [🎬  (ភាគ៥)]()
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១)](https://www.youtube.com/watch?v=Vay-_X7DD9M&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=5)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ២)](https://www.youtube.com/watch?v=5nYCqkIQxJ4&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=3)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៣)](https://www.youtube.com/watch?v=iJG7HH1-qKY&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=2)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៤)](https://www.youtube.com/watch?v=81-UCnKFeik&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=1)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៥)](https://www.youtube.com/watch?v=cej4rbZ1_Sg&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=10)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៦)](https://www.youtube.com/watch?v=R8YS2JNFl6A&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=8)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៧)](https://www.youtube.com/watch?v=yluNplwpDy0&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=9)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៨)](https://www.youtube.com/watch?v=eD7A6UaDtNY&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=11)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៩)](https://www.youtube.com/watch?v=CqhRVFC_8HE&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=12)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១០)​​លំហាត់](https://www.youtube.com/watch?v=t-LcdvXo0xU&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=6)
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១១)លំហាត់](https://www.youtube.com/watch?v=v30TBX4XNmk&list=PLHIDhoWPChfUxahnJB9HBBQFlJTBKHhTg&index=7)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈលោកគ្រូ ស៊ាម សំណាង](https://drive.google.com/file/d/1rZmnH-VoirNuHRiL-bImCaRd0XJdMiVu/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1ky9BQqvdMF_FCPyHQwCraN8N6MFXkl-0/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី២ អនុគមន៏លោការីត
+**Topics Covered:** `1.សញ្ញាណលីមីត` `2.ប្រមាណវិធីលើលីមីត` `3.លីមីតខាងឆ្វេង និងលីមីតខាងស្ដាំ` `4.លីមីតអនន្តនៃអនុគមន៍` `អនុវត្តន៍លំហាត់` <br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ១)]()
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ២)]()
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៣)]()
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៤)]()
+    * [🎬 អនុគមន៏អ៊ិចស្យ៉ូណង់ស្យែល (ភាគ៥)]()
     * [🎬  (ភាគ៦)]()
     * [🎬  (ភាគ៧)]()
     * [🎬  (ភាគ៨)]()
