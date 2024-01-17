@@ -266,20 +266,39 @@
 **Topics Covered:** `1.របៀបគណនាផលបូក` `2.គណនាផលបូកតាមលំនាំគំរូ` `3.និមិត្តសញ្ញា`$\Sigma$`សម្រាប់ផលបូកនៃស្វីត` `4.របៀបកំណត់តួទីnតាមផលសងរួមនៃស្វីត` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬  (ភាគ១)]()
-    * [🎬  (ភាគ២)]()
-    * [🎬  (ភាគ៣)]()
-    * [🎬  (ភាគ៤)]()
-    * [🎬  (ភាគ៥)]()
-    * [🎬  (ភាគ៦)]()
-    * [🎬  (ភាគ៧)]()
-    * [🎬  (ភាគ៨)]()
-    * [🎬  (ភាគ៩)]()
-    * [🎬  (ភាគ១០)]()
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ១)](https://www.youtube.com/watch?v=Dso319Z0w_8&list=PLHIDhoWPChfW9kPwgxhgcWOcvy10COn44&index=2)
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ២)](https://www.youtube.com/watch?v=WJR9DJU5IEc&list=PLHIDhoWPChfW9kPwgxhgcWOcvy10COn44&index=1)
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៣)](https://www.youtube.com/watch?v=MKK3PH6zHgk&list=PLHIDhoWPChfW9kPwgxhgcWOcvy10COn44&index=6)
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៤)](https://www.youtube.com/watch?v=3kpHqo_f5PY&list=PLHIDhoWPChfW9kPwgxhgcWOcvy10COn44&index=7)
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៥)](https://www.youtube.com/watch?v=iUbTVZkTLyU&list=PLHIDhoWPChfW9kPwgxhgcWOcvy10COn44&index=3)
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៦)](https://www.youtube.com/watch?v=gszvUY7oVrk&list=PLHIDhoWPChfW9kPwgxhgcWOcvy10COn44&index=5)
+    * [🎬 Sigma for sequence sum](https://www.youtube.com/watch?v=SjKa50-kUCU&list=PLHIDhoWPChfW9kPwgxhgcWOcvy10COn44&index=4)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ឯកសាររបស់លោកគ្រូ​ ហុីង វុទ្ធី](https://drive.google.com/file/d/1IpmBVMy91EymvF6FcqCVFg3iy3UOxm7h/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុននិងសែន និសិដ្ឋ](https://drive.google.com/file/d/19ck3Gq_5dnMqF2r5IxT9r2Yvva9JkOl4/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី២ ទំនាក់ទំនងតួនៃស៊ី្វត
+**Topics Covered:** `1.កំណត់តួទីn ដោយប្រើស្វីតជំនួយ` `2.ទំនាក់ទំនងរវាង`$\a_n$ `និង` $\S_n$` `3.ទំនាក់ទំនងកំណើនក្នុងទម្រង់`$\Sigma$`សម្រាប់ផលបូកនៃស្វីត` `4.របៀបកំណត់តួទីnតាមផលសងរួមនៃស្វីត` `អនុវត្តន៍លំហាត់` <br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ១)]()
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ២)]()
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៣)]()
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៤)]()
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៥)]()
+    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៦)]()
+    * [🎬 Sigma for sequence sum]()
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ​ ហុីង វុទ្ធី](https://drive.google.com/file/d/1IpmBVMy91EymvF6FcqCVFg3iy3UOxm7h/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុននិងសែន និសិដ្ឋ](https://drive.google.com/file/d/19ck3Gq_5dnMqF2r5IxT9r2Yvva9JkOl4/view?usp=sharing)
 ##
 <div align="right">
 	
