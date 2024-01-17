@@ -430,20 +430,17 @@
 **Topics Covered:** `1.សញ្ញាណនៃម៉ាទ្រីស` `2.ប្រមាណវិធីលើម៉ាទ្រីស` `3.ម៉ាទ្រីសច្រាសាំ` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬  (ភាគ១)]()
-    * [🎬  (ភាគ២)]()
-    * [🎬  (ភាគ៣)]()
-    * [🎬  (ភាគ៤)]()
-    * [🎬  (ភាគ៥)]()
-    * [🎬  (ភាគ៦)]()
-    * [🎬  (ភាគ៧)]()
-    * [🎬  (ភាគ៨)]()
-    * [🎬  (ភាគ៩)]()
-    * [🎬  ម៉ាទ្រីស និងដេទែរមីណង់ បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន (ភាគ១០)](https://www.youtube.com/watch?v=f70Jh4Lwrag)
+    * [🎬 ម៉ាទ្រីស (ភាគ១)](https://www.youtube.com/watch?v=0qIKS3pLPn0&list=PLHIDhoWPChfUDUgnomkd-u71irBJ8ppZT&index=3)
+    * [🎬 ម៉ាទ្រីស (ភាគ២)](https://www.youtube.com/watch?v=UlVkbqH7o9k&list=PLHIDhoWPChfUDUgnomkd-u71irBJ8ppZT&index=2)
+    * [🎬 ម៉ាទ្រីស (ភាគ៣)](https://www.youtube.com/watch?v=U0SE1U3Zs6E&list=PLHIDhoWPChfUDUgnomkd-u71irBJ8ppZT&index=1)
+    * [🎬 ម៉ាទ្រីស (ភាគ៤)](https://www.youtube.com/watch?v=AKAgCTRc6jg&list=PLHIDhoWPChfUDUgnomkd-u71irBJ8ppZT&index=4)
+    * [🎬 ម៉ាទ្រីស (ភាគ៥)](https://www.youtube.com/watch?v=0Ei4FJEWDGY&list=PLHIDhoWPChfUDUgnomkd-u71irBJ8ppZT&index=5)
+    * [🎬 ម៉ាទ្រីស (ភាគ៦)](https://www.youtube.com/watch?v=WdF5bjDCGc8&list=PLHIDhoWPChfUDUgnomkd-u71irBJ8ppZT&index=6)
+    * [🎬  ម៉ាទ្រីស និងដេទែរមីណង់ បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/watch?v=f70Jh4Lwrag)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី18 (NIE)](https://drive.google.com/file/d/1QoVdx8CsS7Gek-MwYkeIf4HYEDVALeqr/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី23 (NIE)](https://drive.google.com/file/d/1UwV3ygglN8vStRtHvfBphbo8PId02rWE/view?usp=sharing)
 ##
 <div align="right">
 	
@@ -455,20 +452,15 @@
 **Topics Covered:** `1.ដែទែមីណង់លំដាប់2` `2.ដែទែមីណង់លំដាប់3` `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬  (ភាគ១)]()
-    * [🎬  (ភាគ២)]()
-    * [🎬  (ភាគ៣)]()
-    * [🎬  (ភាគ៤)]()
-    * [🎬  (ភាគ៥)]()
-    * [🎬  (ភាគ៦)]()
-    * [🎬  (ភាគ៧)]()
-    * [🎬  (ភាគ៨)]()
-    * [🎬  (ភាគ៩)]()
-    * [🎬  (ភាគ១០)]()
+    * [🎬 ដេទែមីណង់ (ភាគ១)](https://www.youtube.com/watch?v=-sn70y29ox0&list=PLHIDhoWPChfXFZnVbuJVBfGpQgUZuFr6-&index=2)
+    * [🎬 ដេទែមីណង់ (ភាគ២)](https://www.youtube.com/watch?v=q1DlUbj8xeE&list=PLHIDhoWPChfXFZnVbuJVBfGpQgUZuFr6-&index=4)
+    * [🎬 ដេទែមីណង់ (ភាគ៣)](https://www.youtube.com/watch?v=gUbWaLfyhXs&list=PLHIDhoWPChfXFZnVbuJVBfGpQgUZuFr6-&index=3)
+    * [🎬 ដេទែមីណង់ (ភាគ៤)](https://www.youtube.com/watch?v=l7_NXx_brK8&list=PLHIDhoWPChfXFZnVbuJVBfGpQgUZuFr6-&index=1)
+    * [🎬  ម៉ាទ្រីស និងដេទែរមីណង់ បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/watch?v=f70Jh4Lwrag)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)]()
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី21ជំនាន់ទី19 (NIE)](https://drive.google.com/file/d/16ntyRedrgE7B6hrkmPG0OSEyX8fJaisy/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី23 (NIE)](https://drive.google.com/file/d/1UwV3ygglN8vStRtHvfBphbo8PId02rWE/view?usp=sharing)
 ##
 <div align="right">
 	
