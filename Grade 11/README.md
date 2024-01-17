@@ -285,16 +285,33 @@
 </div>
 
 ## មេរៀនទី២ ទំនាក់ទំនងតួនៃស៊ី្វត
-**Topics Covered:** `1.កំណត់តួទីn ដោយប្រើស្វីតជំនួយ` `2.ទំនាក់ទំនងរវាង` $a_n$ `និង` $s_n$ `3.ទំនាក់ទំនងកំណើនក្នុងទម្រង់` $a_n+2$   `អនុវត្តន៍លំហាត់` <br>
+**Topics Covered:** `1.កំណត់តួទីn ដោយប្រើស្វីតជំនួយ` `2.ទំនាក់ទំនងរវាង` $a_n$ `និង` $s_n$ `3.ទំនាក់ទំនងកំណើនក្នុងទម្រង់` $a_{n+2} + pa_{n+1} qa_n = 0$   `អនុវត្តន៍លំហាត់` <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ១)]()
-    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ២)]()
-    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៣)]()
-    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៤)]()
-    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៥)]()
-    * [🎬 ផលបូកតួនៃស៊ី្វត (ភាគ៦)]()
-    * [🎬 Sigma for sequence sum]()
+    * [🎬 ទំនាក់ទំនងតួនៃស៊ី្វត (ភាគ១)](https://www.youtube.com/watch?v=N2jzDHALBdI&list=PLHIDhoWPChfU3dlekJseWKmpXA-r7tDx4&index=7)
+    * [🎬 ទំនាក់ទំនងតួនៃស៊ី្វត (ភាគ២)](https://www.youtube.com/watch?v=khg2BvBLlig&list=PLHIDhoWPChfU3dlekJseWKmpXA-r7tDx4&index=8)
+    * [🎬 ទំនាក់ទំនងតួនៃស៊ី្វត (ភាគ៣)](https://www.youtube.com/watch?v=CIKbdL_Kf5U&list=PLHIDhoWPChfU3dlekJseWKmpXA-r7tDx4&index=6)
+    * [🎬 ទំនាក់ទំនងតួនៃស៊ី្វត (ភាគ៤)](https://www.youtube.com/watch?v=XR0pMRiHRyc&list=PLHIDhoWPChfU3dlekJseWKmpXA-r7tDx4&index=5)
+    * [🎬 ទំនាក់ទំនងតួនៃស៊ី្វត (ភាគ៥)](https://www.youtube.com/watch?v=-5-0HLB0GpY&list=PLHIDhoWPChfU3dlekJseWKmpXA-r7tDx4&index=4)
+    * [🎬 ទំនាក់ទំនងតួនៃស៊ី្វត (ភាគ៦)](https://www.youtube.com/watch?v=aQmUFIUuuf4&list=PLHIDhoWPChfU3dlekJseWKmpXA-r7tDx4&index=3)
+    * [🎬 ទំនាក់ទំនងតួនៃស៊ី្វត (ភាគ៧)](https://www.youtube.com/watch?v=3pLKHBcGboM&list=PLHIDhoWPChfU3dlekJseWKmpXA-r7tDx4&index=1)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ​ ហុីង វុទ្ធី](https://drive.google.com/file/d/1IpmBVMy91EymvF6FcqCVFg3iy3UOxm7h/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុននិងសែន និសិដ្ឋ](https://drive.google.com/file/d/19ck3Gq_5dnMqF2r5IxT9r2Yvva9JkOl4/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
+## មេរៀនទី៣ វិចារអនុមានរួមគណិតវិទ្យា
+**Topics Covered:** `1.គោលការណ៍នៃវិចារអនុមានរួមគណិត` `2.ទ្រឹស្តីបទទ្វេធា`  `អនុវត្តន៍លំហាត់` <br>
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 វិចារអនុមានរួមគណិតវិទ្យា (ភាគ១)](https://www.youtube.com/watch?v=ZQdhBBM-4gk&t=1s)
+    * [🎬 លំហាត់](https://www.youtube.com/watch?v=KH01PN0QmV0&t=6s)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ​ ហុីង វុទ្ធី](https://drive.google.com/file/d/1IpmBVMy91EymvF6FcqCVFg3iy3UOxm7h/view?usp=sharing)
