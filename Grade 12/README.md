@@ -166,6 +166,10 @@
 
 ---
 # ជំពូកទី០: រំលឹកមេរៀន
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+✅ [The History of Mathematics. Documentary](https://www.youtube.com/watch?v=P-sU9xkmZ5o) && [Animation vs. Math](https://www.youtube.com/watch?v=B1J6Ou4q8vE)<br>
+✅ [How you can be good at math, and other surprising facts about learning](https://www.youtube.com/watch?v=3icoSeGqQtY) <br>
+✅ [Math isn't hard, it's a languages](https://www.youtube.com/watch?v=V6yixyiJcos) <br>
 **Topics Covered:** `ចំនួន` `សមីការ` `វិសមីការ` `ប្រពន្ធសមីការ` `ពហុធា` `សំណុំ` `សំណើ` `ត្រីកោណមាត្រ` <br>
 **Prerequisites:** `ប្រភាគ` `ការធ្វើប្រមាណវិធី` `ស្វ័យគុណ` `សមាមាត្រ` `ពន្លាតកន្សោម` `កន្សោមពីជគណិត`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
