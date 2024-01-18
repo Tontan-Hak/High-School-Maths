@@ -658,6 +658,7 @@
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/0B1dv5sqSPsPbTm9PQkRrVVgyMUk/view?usp=sharing&resourcekey=0-8giLwRb8k9Ra-4v5FdjQEg)
+	* [📚 ឯកសាររបស់លោកគ្រូ អោ មណីចន្ទ្រា](https://drive.google.com/file/d/18KjYsEiCUJjNVto3oFnNzo5q5xzTs10Y/view?usp=sharing)
 
 ##
 <div align="right">
@@ -676,6 +677,7 @@
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/0B1dv5sqSPsPbTm9PQkRrVVgyMUk/view?usp=sharing&resourcekey=0-8giLwRb8k9Ra-4v5FdjQEg)
+	* [📚 ឯកសាររបស់លោកគ្រូ អោ មណីចន្ទ្រា](https://drive.google.com/file/d/18KjYsEiCUJjNVto3oFnNzo5q5xzTs10Y/view?usp=sharing)
 
 ##
 <div align="right">
@@ -769,7 +771,6 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់]()
 	* [📚 គន្លឹះធរណីមាត្រ](https://drive.google.com/file/d/1FGlxHR4pjNRwhYSXvAMCGnHWDK-j4p6B/view?usp=sharing)
-	* [📚 ឯកសាររៀបរាងដោយគរុនិសិ្សតគណិតវិទ្យាជំនន់ទី២៤ ក្រុមទី៣]()
 ##
 <div align="right">
 	
@@ -828,8 +829,8 @@
 # សៀវភៅអេឡិចត្រូនិច
 ## ស្រាវជ្រាវបន្ថែម
    - [x] [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
-   - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
-   - [x]  [សៀវភៅគ្រូ គណិតវិទ្យាពីថ្នាក់ទី១០ ដល់ទី១២](https://drive.google.com/drive/folders/1aooTkecupaHDw-DOUkIvNpxMJGxaiitp?usp=sharing)
+   - [x] [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
+   - [x] [សៀវភៅគ្រូ គណិតវិទ្យាពីថ្នាក់ទី១០ ដល់ទី១២](https://drive.google.com/drive/folders/1aooTkecupaHDw-DOUkIvNpxMJGxaiitp?usp=sharing)
 ##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
 - [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
