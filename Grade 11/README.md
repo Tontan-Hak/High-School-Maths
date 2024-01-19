@@ -189,7 +189,7 @@
 # ជំពូកទី ០១ ស្វុីត
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
-✅ [ What is Sequence?](https://www.youtube.com/watch?v=7EmWdysUk0c) 
+✅ [ What is Sequence?](https://www.youtube.com/watch?v=7EmWdysUk0c) <br>
 ✅ [The magic of Fibonacci numbers](https://www.youtube.com/watch?v=SjSHVDfXHQ4) <br>
 ## មេរៀនទី០១ ស្វុីតចំនួនពិត
 **Topics Covered:** `1.សញ្ញាណស្វីត` `2.តួទីnនៃស្វីត` `3.អថេរភាពនៃស្វីត` `4.ស្វីតទាល់` `អនុវត្តន៍លំហាត់`
@@ -409,8 +409,8 @@
     * [🎬 រូបមន្តអនុគមន៏ត្រីកោណមាត្រ​ (លំហាត់) (ភាគ៧)](https://www.youtube.com/watch?v=YTDG3s2D0-s&list=PLJaM0qi-Pbjs8qyCR6dsJpFtjLFs8OAQd&index=15)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-   ​ * [📚 ឯកសាររបស់លោកគ្រូ លីម សីហា](https://drive.google.com/file/d/177m04P6mawU-ccJS2uqAEUfv5gh9vpFq/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbaXpiU2JhVzBPZXM/view?usp=drive_link&resourcekey=0-WjPtwG2-mqr4_R1aspn8Vg)
+	* [📚 ឯកសាររបស់លោកគ្រូ លីម សីហា](https://drive.google.com/file/d/177m04P6mawU-ccJS2uqAEUfv5gh9vpFq/view?usp=sharing)
+  	* [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbaXpiU2JhVzBPZXM/view?usp=drive_link&resourcekey=0-WjPtwG2-mqr4_R1aspn8Vg)
   
 ##
 <div align="right">
