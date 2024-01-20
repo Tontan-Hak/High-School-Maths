@@ -570,7 +570,9 @@
 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/0B1dv5sqSPsPbOFhRWnFCeFc0dnc/view?usp=sharing&resourcekey=0-I5O6uGHavKbBVllyLcimkA)
+        * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យា​ក្រុមទី១ជំនាន់២៣(NIE)](https://drive.google.com/file/d/1ZnqNuHCCi_81Mf5pBvCkqjrwMvkaYDxy/view?usp=sharing)
         * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យា (NIE)](https://drive.google.com/file/d/1BE1-lCiZLtA4XBcePSPR7sIUlb9tkdbE/view?usp=sharing)
+      
 ##
 <div align="right">
 	
@@ -589,6 +591,7 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
 	* [📚 ដំណោះស្រាយលំហាត់](https://drive.google.com/file/d/0B1dv5sqSPsPbOFhRWnFCeFc0dnc/view?usp=sharing&resourcekey=0-I5O6uGHavKbBVllyLcimkA)
         * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យា (NIE)](https://drive.google.com/file/d/1BE1-lCiZLtA4XBcePSPR7sIUlb9tkdbE/view?usp=sharing)
+
 ##
 <div align="right">
 	
