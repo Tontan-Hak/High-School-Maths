@@ -580,6 +580,7 @@
 - [🎬 ប្រូបាប (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIta6Yi1Kv2_jEFeBKm9ifZ)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ Bai Sokhon](https://drive.google.com/file/d/1vBfEE62C7sSYr5VdRZA7xBNcfBFbBxG-/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EX7OQVwv2ttbwhDtMHxDxhXSPkfzwxjU/view?usp=sharing)
 ##
 <div align="right">
