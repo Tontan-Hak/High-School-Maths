@@ -49,7 +49,7 @@
     * [រូបមន្តសង្ខេប]()
       
 -----
-# Learning How To Learn
+# Learning How to learn
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
@@ -66,7 +66,7 @@
 >  </details>
 >	
 > <details>
-> <summary> Learning how to learn for student</summary>
+> <summary> Learning how to learn for student (Courses)</summary>
 >  <br/>
 >	
 >  <!--START_SECTION:activity-->
@@ -100,7 +100,7 @@
 >  </details>
 >
 >  <details>
->  <summary> Self directed learning</summary>
+>  <summary> Learning How to Learn </summary>
 >  <br/>
 >	
 >  <!--START_SECTION:activity-->
