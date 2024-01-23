@@ -48,7 +48,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 >  </details>
 >	
 > <details>
-> <summary> Learning how to learn for student</summary>
+> <summary> Learning how to learn for student (Courses)</summary>
 >  <br/>
 >	
 >  <!--START_SECTION:activity-->
@@ -82,7 +82,7 @@ Open Source Society University](https://github.com/ossu) & [MIT challenge](https
 >  </details>
 >
 >  <details>
->  <summary> Self directed learning</summary>
+>  <summary> Learning How to Learn </summary>
 >  <br/>
 >	
 >  <!--START_SECTION:activity-->
