@@ -146,7 +146,17 @@
 >  - [📄 The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/feynman-technique/)
 >  <!--END_SECTION:activity-->
 >   </details>
-
+>
+> <details>
+>  <summary> Books </summary>
+>  <br/>
+>	
+> <!--START_SECTION:activity-->
+> - [Learn like a pro](https://drive.google.com/file/d/1dsj4JgQtqt5NBRvsOHMnB59M_nBNA7h3/view?usp=sharing)
+> - [Make it stick](https://drive.google.com/file/d/1xoiKkTZI-16dJtb4NEGZNH3kngrC5vF0/view?usp=sharing)
+> - [Deep work](https://drive.google.com/file/d/1sMHGjwZqQCPpECVKtQAU6qFYErALoYQC/view?usp=sharing)
+>  <!--END_SECTION:activity-->
+>   </details>
 ### Recommended Course 
 - [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
 - [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
