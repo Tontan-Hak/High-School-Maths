@@ -653,6 +653,7 @@
 #### រូបមន្តសង្ខេប-PDF 
 
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1xbo8rIzV7sQh_vQbzdncoNB3vdJtGOnd/view?usp=sharing)
+- [ថ្នាក់ទី១២ រុបមន្តគណិតវិទ្យា](https://drive.google.com/file/d/1yoIlmfabPHR6At5qVkaOUNqC3VQuaBQX/view?usp=sharing)
 - [វិធីសាស្រ្តមួយចំនួនសម្រាប់ដោះស្រាយលំហាត់](https://drive.google.com/file/d/1UX1BONWVUGz5YhaGZKngahgcjBoICs8d/view?usp=sharing)
 - [មេរៀនសង្ខេបនិងលំហាត់គំរូ](https://drive.google.com/file/d/1jxATk61IDHgCfOKtQjG9Fce4g8kPQXkz/view?usp=sharing)
 
