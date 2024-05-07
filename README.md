@@ -295,3 +295,4 @@ Just a few sites that don't fit into any of the other areas above
 <a href="https://github.com/Tontan-Hak/High-School-Maths/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/High-School-Maths?color=2b9348" alt="License Badge"/></a>
 
 -----
+
